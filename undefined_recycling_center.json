@@ -1,0 +1,3765 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2021-01-27T04:38:02Z",
+    "timestamp_areas_base": "2021-01-27T04:15:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 117460318,
+  "lat": 50.0189356,
+  "lon": 14.4514659,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr hl.m. Prahy",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 296061483,
+  "lat": 49.9958640,
+  "lon": 14.6521677,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 310623060,
+  "lat": 50.0976655,
+  "lon": 14.5039050,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr hlavního města Prahy",
+    "operator": "Pražské služby",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 448688046,
+  "lat": 49.2604610,
+  "lon": 16.4446076,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr pro recyklaci stavební suti",
+    "recycling_type": "centre",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 457064185,
+  "lat": 49.8922954,
+  "lon": 16.4524187,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu-Fr 08:00-17:00; Sa 08:00-12:00",
+    "recycling_type": "centre",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 457064187,
+  "lat": 49.8959447,
+  "lon": 16.4418872,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Ekoline group",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 621912728,
+  "lat": 50.7429564,
+  "lon": 15.3098061,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 701440919,
+  "lat": 49.3505561,
+  "lon": 14.7081889,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 819010820,
+  "lat": 50.7993159,
+  "lon": 14.4063296,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 822491779,
+  "lat": 49.8845863,
+  "lon": 15.5323800,
+  "tags": {
+    "addr:conscriptionnumber": "465",
+    "addr:country": "CZ",
+    "addr:housenumber": "465",
+    "addr:place": "Ronov nad Doubravou",
+    "addr:postcode": "53842",
+    "addr:street": "Svatokřížská",
+    "amenity": "recycling",
+    "name": "Kovošrot Culka & Sadlik s.r.o.",
+    "recycling_type": "centre",
+    "ref:ruian:addr": "5280371"
+  }
+},
+{
+  "type": "node",
+  "id": 982073293,
+  "lat": 49.2279016,
+  "lon": 15.8754607,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1004830691,
+  "lat": 50.2316991,
+  "lon": 14.5896687,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1392328705,
+  "lat": 50.1796673,
+  "lon": 14.4082002,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Klecany",
+    "opening_hours": "Jan-Mar Tu,Th 12:00-15:00; Su 08:00-12:00; Apr-Oct Tu,Th 09:00-17:00; We,Fr 13:00-15:30; Sa 09:00-13:00; Su 08:00-12:00; Nov-Dec Tu,Th 12:00-15:00; Su 08:00-12:00",
+    "operator": "Městský úřad Klecany",
+    "phone": "+420 737723562",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1411212942,
+  "lat": 50.1579421,
+  "lon": 14.8260957,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1448434739,
+  "lat": 49.6918751,
+  "lon": 13.2690300,
+  "tags": {
+    "addr:conscriptionnumber": "699",
+    "addr:country": "CZ",
+    "addr:housenumber": "699",
+    "addr:place": "Líně",
+    "addr:postcode": "33021",
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "ref:ruian:addr": "27665623"
+  }
+},
+{
+  "type": "node",
+  "id": 1457642646,
+  "lat": 49.4546065,
+  "lon": 16.5275754,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 1675127341,
+  "lat": 50.0675641,
+  "lon": 14.4394780,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Komwag",
+    "phone": "+420 236 040 000",
+    "recycling_type": "centre",
+    "source": "survey",
+    "website": "https://www.komwag.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1773160416,
+  "lat": 49.2160432,
+  "lon": 16.3940374,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2078101656,
+  "lat": 50.0538480,
+  "lon": 15.2117037,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr AVE",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2101794049,
+  "lat": 49.7625559,
+  "lon": 16.6565276,
+  "tags": {
+    "amenity": "recycling",
+    "collection_times": "Mo 13:00-17:00; We 08:00-12:00,13:00-17:00; Th,Sa 08:00-14:00",
+    "name": "Technické služby Moravská Třebová s.r.o.",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2211669715,
+  "lat": 50.2304508,
+  "lon": 14.8537617,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 2307588993,
+  "lat": 49.9441393,
+  "lon": 17.9121318,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "Mar 15-Nov 15: Mo-Fr 11:00-17:30; Sa 8:00-11:00 || Nov 16-Mar 14: We 11:00-17:30; Sa 8:00-11:00",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2420028970,
+  "lat": 50.1488427,
+  "lon": 14.4858062,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2471829394,
+  "lat": 50.1341636,
+  "lon": 14.4523791,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2492164279,
+  "lat": 49.8502772,
+  "lon": 13.3720447,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2683687841,
+  "lat": 50.1028344,
+  "lon": 14.7271126,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2705385315,
+  "lat": 49.2874564,
+  "lon": 17.3859212,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 2833987832,
+  "lat": 50.1412528,
+  "lon": 14.0656945,
+  "tags": {
+    "amenity": "recycling",
+    "int_name": "Sběrný dvůr",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km;survey;bing:ortofoto"
+  }
+},
+{
+  "type": "node",
+  "id": 3213780990,
+  "lat": 50.2229354,
+  "lon": 14.5826786,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Výkupna druhotných surovin",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3213780991,
+  "lat": 50.2265939,
+  "lon": 14.5848645,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3268908361,
+  "lat": 50.1791801,
+  "lon": 14.4071669,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "recycling_type": "centre",
+    "website": "http://sbernesurovinyklecany.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 3335247581,
+  "lat": 48.9554205,
+  "lon": 17.1272418,
+  "tags": {
+    "addr:conscriptionnumber": "599",
+    "addr:housenumber": "599",
+    "addr:place": "Milotice",
+    "addr:postcode": "69605",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Milotice",
+    "recycling_type": "centre",
+    "ref:ruian:addr": "73373656"
+  }
+},
+{
+  "type": "node",
+  "id": 3575495858,
+  "lat": 49.8428103,
+  "lon": 13.9014071,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3634917341,
+  "lat": 49.0168546,
+  "lon": 14.7573093,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Technické služby Třeboň",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3805077167,
+  "lat": 50.3558918,
+  "lon": 16.1485641,
+  "tags": {
+    "addr:city": "Nové Město nad Metují",
+    "addr:postcode": "54901",
+    "addr:street": "Družstevní",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3833919305,
+  "lat": 50.1672614,
+  "lon": 14.4373895,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3924520231,
+  "lat": 49.3746248,
+  "lon": 14.7074407,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "operator": "Město Sezimovo Ústí",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 3979308217,
+  "lat": 49.5131509,
+  "lon": 12.8141171,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4202656115,
+  "lat": 48.9291815,
+  "lon": 14.4946128,
+  "tags": {
+    "amenity": "recycling",
+    "opening_hours": "Mo 17:00-19:00; Th 17:00-19:00",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4202656120,
+  "lat": 48.9340849,
+  "lon": 14.4883446,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4519464437,
+  "lat": 49.7584676,
+  "lon": 16.6674011,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4672524643,
+  "lat": 49.7883923,
+  "lon": 13.9795259,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Městys Jince",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4700587164,
+  "lat": 50.0958002,
+  "lon": 16.4397314,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4742613911,
+  "lat": 49.3977813,
+  "lon": 16.7096008,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "website": "https://www.vavrinec.cz/sberny-dvur-odpadu/"
+  }
+},
+{
+  "type": "node",
+  "id": 4763834456,
+  "lat": 50.5422780,
+  "lon": 14.1258171,
+  "tags": {
+    "addr:city": "Litoměřice",
+    "addr:postcode": "41201",
+    "addr:street": "Nerudova",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Litoměřice",
+    "opening_hours": "Po,st 8:30-16:00 hod Út,čt 8:30-18:00 hod Pá 8:30-15:00 hod So 8:00-14:30 hod",
+    "operator": "Město Litoměřice",
+    "recycling_type": "centre",
+    "website": "https://www.tsmlt.cz/dvur-ltm.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4889187731,
+  "lat": 49.2978037,
+  "lon": 17.7871161,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrné místo",
+    "operator": "Obec Kašava",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4899585150,
+  "lat": 50.8155771,
+  "lon": 14.5298817,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4901270972,
+  "lat": 49.6465580,
+  "lon": 16.1237884,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4998818990,
+  "lat": 50.1499418,
+  "lon": 14.5106073,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Výkup palet",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5003197729,
+  "lat": 50.8824826,
+  "lon": 14.5587838,
+  "tags": {
+    "amenity": "recycling",
+    "collection_times": "Mo 14:00-16:00; Th 09:00-11:00; Sa 09:00-12:00",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5054445445,
+  "lat": 50.1287566,
+  "lon": 15.9085678,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Po 15:00 - 17:00",
+    "operator": "Bášť",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5157968960,
+  "lat": 49.6540054,
+  "lon": 14.4295301,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5310653835,
+  "lat": 48.6202368,
+  "lon": 14.2560538,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5414518243,
+  "lat": 48.9298930,
+  "lon": 15.6466918,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Místo zpětného odběru",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5606607322,
+  "lat": 50.3978729,
+  "lon": 16.0554286,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrné suroviny",
+    "operator": "Petr Jiroušek",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5704031068,
+  "lat": 50.0633600,
+  "lon": 16.5318148,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5744962106,
+  "lat": 49.4142849,
+  "lon": 18.1091527,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 5894909067,
+  "lat": 49.7038595,
+  "lon": 14.0075968,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6161876679,
+  "lat": 49.1658945,
+  "lon": 16.5763240,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6184110288,
+  "lat": 50.1227692,
+  "lon": 14.5853887,
+  "tags": {
+    "amenity": "recycling",
+    "building": "yes",
+    "name": "Sběrný dvůr Satalice",
+    "opening_hours": "Mar 31-Oct 23 Mo-Fr 08:30-18:30; Mar 31-Oct 23,Oct 24-Mar 31 Sa 08:30-15:00; Oct 24-Mar 31 Mo-Fr 08:30-17:00; PH off",
+    "operator": "IPODEC a.s.",
+    "phone": "736661560",
+    "recycling_type": "centre",
+    "website": "http://www.satalice-sd.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 6191325261,
+  "lat": 50.2271505,
+  "lon": 12.1905845,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6197549136,
+  "lat": 50.0728649,
+  "lon": 16.4636370,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Nov-Mar: Tu 09:00-13:00,13:30-17:00; Th 13:00-17:00; Sa 09:00-13:00; Apr-Oct: Tu 09:00-13:00,13:30-18:00; Th 13:00-18:00; Sa 09:00-15:00",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6271243310,
+  "lat": 50.0386258,
+  "lon": 16.4999184,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6326408768,
+  "lat": 50.0071029,
+  "lon": 14.4744394,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6415722821,
+  "lat": 48.9571047,
+  "lon": 17.1745054,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6441907362,
+  "lat": 48.9155823,
+  "lon": 17.1761403,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6469965324,
+  "lat": 49.1370505,
+  "lon": 16.4753558,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6638761340,
+  "lat": 49.2546065,
+  "lon": 16.5115976,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr odpadů Rozdrojovice",
+    "opening_hours": "Mo-Th 07:00-09:00; Tu,Fr 07:00-09:00,16:00-19:00; Sa 11:00-14:00",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 6856016683,
+  "lat": 49.8524995,
+  "lon": 13.7203404,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7099409116,
+  "lat": 50.0705429,
+  "lon": 15.7910304,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7128369470,
+  "lat": 48.8313803,
+  "lon": 14.3320269,
+  "tags": {
+    "addr:city": "Český Krumlov",
+    "addr:housenumber": "70",
+    "addr:postcode": "38101",
+    "addr:street": "Tovární",
+    "amenity": "recycling",
+    "name": "Sběrné suroviny, a.s.",
+    "phone": "+420 603 510 894",
+    "recycling_type": "centre",
+    "website": "https://www.sbernesuroviny.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 7171795644,
+  "lat": 50.3556471,
+  "lon": 14.4873609,
+  "tags": {
+    "amenity": "recycling",
+    "operator": "FCC BEC",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7196054864,
+  "lat": 50.1267344,
+  "lon": 15.8571844,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7238283526,
+  "lat": 50.1944575,
+  "lon": 15.8554835,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr - Na Brně",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7380987812,
+  "lat": 50.2346160,
+  "lon": 14.6962379,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7466024562,
+  "lat": 50.6663365,
+  "lon": 14.0692207,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7695555926,
+  "lat": 50.3207636,
+  "lon": 15.0960108,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7695560027,
+  "lat": 50.3205538,
+  "lon": 15.1028490,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7728745577,
+  "lat": 50.6526203,
+  "lon": 14.7311264,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7772562261,
+  "lat": 49.9789458,
+  "lon": 14.5110265,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "We 16:00-20:00; Sa 08:00-14:00",
+    "phone": "+420 734 755 514",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7784717922,
+  "lat": 48.8156920,
+  "lon": 14.2607578,
+  "tags": {
+    "addr:city": "Kájov",
+    "addr:housenumber": "197",
+    "addr:postcode": "38221",
+    "addr:street": "Kájovská",
+    "amenity": "recycling",
+    "name": "Zita Kájov s.r.o.",
+    "recycling_type": "centre",
+    "website": "http://www.zitakajov.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 7829797687,
+  "lat": 49.3790904,
+  "lon": 17.5848968,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Prusinovice",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 7830509425,
+  "lat": 49.3355706,
+  "lon": 16.6685787,
+  "tags": {
+    "amenity": "recycling",
+    "email": "obec@olomucany.cz",
+    "phone": "+420 721 907 127",
+    "recycling_type": "centre",
+    "website": "https://www.olomucany.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 7830524211,
+  "lat": 49.3661069,
+  "lon": 16.5663862,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8041979429,
+  "lat": 50.1951018,
+  "lon": 15.8153501,
+  "tags": {
+    "amenity": "recycling",
+    "name": "NAPOS a.s. - výkup druhotných surovin",
+    "phone": "+420725893334",
+    "recycling_type": "centre",
+    "website": "https://www.napos.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 8191674114,
+  "lat": 48.9884352,
+  "lon": 16.7919004,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Diváky",
+    "phone": "+420 608 623018",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8290353441,
+  "lat": 49.0195371,
+  "lon": 14.6350448,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Lišov",
+    "operator": "FCC",
+    "operator:type": "private",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
+  "id": 8361163164,
+  "lat": 50.0658577,
+  "lon": 14.4920188,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 4712689,
+  "nodes": [
+    30002769,
+    30002773,
+    31764754,
+    2220020441,
+    31764774,
+    30002770,
+    30002771,
+    2220020289,
+    30002772,
+    104721391,
+    2220020432,
+    30002769
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr Hlavního města Prahy",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 32735504,
+  "nodes": [
+    368344497,
+    368344498,
+    368344499,
+    6964899552,
+    368344504,
+    368344500,
+    6964899551,
+    368344497
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "fence": "wire",
+    "name": "sběrný dvůr",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "recycling_type": "centre",
+    "source": "uhul:ortofoto"
+  }
+},
+{
+  "type": "way",
+  "id": 48924397,
+  "nodes": [
+    620886554,
+    620886555,
+    620886557,
+    620886558,
+    620886560,
+    620886561,
+    620886562,
+    620886551,
+    620886552,
+    620886553,
+    620886541,
+    620886543,
+    620886544,
+    620886545,
+    620886546,
+    620886554
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 54147749,
+  "nodes": [
+    683066146,
+    683066011,
+    6046082378,
+    3886742399,
+    3886742398,
+    6046082377,
+    683066146
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building": "house",
+    "building:flats": "1",
+    "building:ruian:type": "7",
+    "email": "info@valtice.eu",
+    "name": "Sběrný dvůr Valtice",
+    "phone": "+420 733 535 812",
+    "recycling_type": "centre",
+    "ref:ruian:building": "50752618",
+    "source": "cuzk:ruian",
+    "website": "https://www.valtice.eu/"
+  }
+},
+{
+  "type": "way",
+  "id": 55663113,
+  "nodes": [
+    699401119,
+    699401120,
+    699401121,
+    699401122,
+    699401119
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building": "yes",
+    "name": "Sběrný dvůr",
+    "name:cs": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 55919440,
+  "nodes": [
+    702075588,
+    702075543,
+    702075542,
+    702075587,
+    702075588
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building": "yes",
+    "building:levels": "1",
+    "building:ruian:type": "19",
+    "recycling_type": "centre",
+    "ref:ruian:building": "78997259",
+    "source": "cuzk:ruian",
+    "start_date": "2010-09-29"
+  }
+},
+{
+  "type": "way",
+  "id": 79798613,
+  "nodes": [
+    506111609,
+    931493575,
+    931493566,
+    931493578,
+    5623700360,
+    931493586,
+    931493596,
+    931493580,
+    931493589,
+    506111611,
+    506111609
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Nehlsen Třinec",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 79800592,
+  "nodes": [
+    931521947,
+    931521945,
+    931521939,
+    931521938,
+    931521948,
+    931521937,
+    931521943,
+    931521946,
+    2411298148,
+    931521940,
+    931521941,
+    931521947
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 79870202,
+  "nodes": [
+    932335744,
+    932335633,
+    932335267,
+    932335550,
+    932335176,
+    932335422,
+    932335622,
+    932335744
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 99865211,
+  "nodes": [
+    1154483772,
+    1154479310,
+    1154482231,
+    1154479619,
+    1154482300,
+    1985830857,
+    1154486599,
+    1154483772
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 124240683,
+  "nodes": [
+    1383318367,
+    1383318621,
+    1383318260,
+    1383318055,
+    1383318367
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building": "yes",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Mo 08:00-12:00, 14:00-18:00, Tu 14:00-18:00; We 08:00-12:00, 14:00-18:00, Th Closed, Fr 14:00-18:00, Sa 08:00-12:00, Su Closed",
+    "operator": "Město Vimperk",
+    "recycling_type": "centre",
+    "roof:colour": "gray",
+    "roof:shape": "flat",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 136315292,
+  "nodes": [
+    1495478902,
+    1495479080,
+    1495479110,
+    1495478962,
+    1495478902
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building": "yes",
+    "building:ruian:type": "19",
+    "recycling_type": "centre",
+    "ref:ruian:building": "38804158",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 143546276,
+  "nodes": [
+    1570861647,
+    1344386138,
+    1344386145,
+    1344386142,
+    1344386135,
+    1344386144,
+    1344386139,
+    1570861643,
+    1570861651,
+    1344386148,
+    1344386137,
+    3387725660,
+    1344386136,
+    1344386143,
+    2132823846,
+    1570861647
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 145483465,
+  "nodes": [
+    1588977320,
+    1588977295,
+    1588977293,
+    1588977280,
+    1588977270,
+    1663965300,
+    1588977267,
+    1588977275,
+    1588977319,
+    1588977321,
+    1588977320
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 156482633,
+  "nodes": [
+    1687305509,
+    1687305501,
+    1687305466,
+    1687305472,
+    1687305498,
+    1687305561,
+    7597717868,
+    1687305556,
+    7597717869,
+    7597717870,
+    1687305509
+  ],
+  "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "Krejčířova",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Rousínov",
+    "opening_hours": "Mo 13:00-18:00; We 13:00-18:00; St 08:00-12:00",
+    "operator": "RESPONO a.s.",
+    "phone": "+420 732 454 800",
+    "recycling_type": "centre",
+    "source": "aerial imagery;local knowledge",
+    "website": "https://www.respono.cz/pro-obcany/sberne-dvory/"
+  }
+},
+{
+  "type": "way",
+  "id": 172203710,
+  "nodes": [
+    1831340950,
+    1831340949,
+    1831340944,
+    1831340945,
+    1831340950
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building:ruian:type": "12",
+    "name": "Rumpold",
+    "recycling_type": "centre",
+    "ref:ruian:building": "45266841",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 201011153,
+  "nodes": [
+    2109599461,
+    2109599475,
+    2109599487,
+    2109599473,
+    2109599461
+  ],
+  "tags": {
+    "addr:city": "Vimperk",
+    "addr:postcode": "38501",
+    "addr:street": "Špidrova",
+    "amenity": "recycling",
+    "building": "yes",
+    "building:ruian:type": "19",
+    "contact:phone": "730 963 344",
+    "contact:website": "https://www.sbernesuroviny.cz/",
+    "name": "Sběrné suroviny",
+    "opening_hours": "Mo-Fr 07:30-11:30, 12:00-16:00; PH off",
+    "operator": "Sběrné suroviny, a.s.",
+    "operator:type": "private",
+    "recycling_type": "centre",
+    "ref:ruian:building": "47491698",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 205342892,
+  "nodes": [
+    2153167401,
+    2153167407,
+    2153167555,
+    2153167498,
+    2495909807,
+    2495909803,
+    2153167535,
+    2153167401
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "ČOV Vyškov",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 216507230,
+  "nodes": [
+    2258432307,
+    2258432304,
+    2258432297,
+    2258432301,
+    2258432307
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 231362507,
+  "nodes": [
+    2397499990,
+    2397499993,
+    2397499988,
+    2397499986,
+    2397499985,
+    2397499990
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 238356094,
+  "nodes": [
+    2461970463,
+    2461970471,
+    2461970479,
+    2461970475,
+    2461970463
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 266890774,
+  "nodes": [
+    2723895376,
+    2723895374,
+    2723895373,
+    2723895375,
+    2723895376
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 277964775,
+  "nodes": [
+    2824020958,
+    2824020957,
+    2824020960,
+    2824020955,
+    2824020962,
+    2824020959,
+    2824020956,
+    2824020961,
+    2824020958
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 280974731,
+  "nodes": [
+    2849963743,
+    2849963744,
+    2849963745,
+    2849963746,
+    285072856,
+    285072867,
+    285072863,
+    285072840,
+    5349592863,
+    2849963750,
+    2849963751,
+    285096336,
+    2849962160,
+    8232102668,
+    2849963743
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Skládka odpadu - Hrádek",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 298071704,
+  "nodes": [
+    3019972002,
+    3968720599,
+    3019972003,
+    3019972004,
+    3019972005,
+    3019972006,
+    3966226497,
+    3019972007,
+    3019972008,
+    3966226496,
+    3019972016,
+    3966226509,
+    3019972018,
+    3019972019,
+    3019972002
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 307023663,
+  "nodes": [
+    3120636974,
+    3120636975,
+    4972251780,
+    3120636976,
+    4972251779,
+    4972251775,
+    3120636977,
+    3120636979,
+    3120636974
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 310648892,
+  "nodes": [
+    3161059578,
+    3161059579,
+    3161059580,
+    3161059581,
+    3161059582,
+    3161059583,
+    3161059584,
+    3161059578
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 310648895,
+  "nodes": [
+    3161059592,
+    3899529986,
+    3161059594,
+    3161059595,
+    3161059596,
+    3161059597,
+    296671700,
+    3161059598,
+    3161059599,
+    3161059600,
+    3161059601,
+    3161059602,
+    3161059603,
+    3161059604,
+    3161059592
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrné suroviny",
+    "name:en": "Scrap yard",
+    "recycling_type": "centre",
+    "source": "craftak"
+  }
+},
+{
+  "type": "way",
+  "id": 314068832,
+  "nodes": [
+    3201086960,
+    3208553585,
+    3208553584,
+    3208553583,
+    3201086960
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "landfill",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu 14:30-16:30; Th 14:30-16:30; Sa 10:00-12:00; Su 13:00-15:00",
+    "operator": "Město Buštěhrad",
+    "recycling_type": "centre",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 315529200,
+  "nodes": [
+    3216496008,
+    3216496010,
+    3216496009,
+    3216496005,
+    3216496008
+  ],
+  "tags": {
+    "access": "private",
+    "addr:city": "Vimperk",
+    "addr:country": "CZ",
+    "addr:housenumber": "128",
+    "addr:postcode": "38501",
+    "addr:street": "Špidrova",
+    "amenity": "recycling",
+    "building": "yes",
+    "contact:website": "https://jihosepar.cz/",
+    "name": "Jihosepar a.s.",
+    "opening_hours": "Mo-Fr 08:00-14:30; PH off",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 324784511,
+  "nodes": [
+    3314617604,
+    3314617601,
+    3314617599,
+    3314617598,
+    3314617600,
+    3314617603,
+    3314617602,
+    3314617605,
+    3314617606,
+    3314617604
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "email": "suroviny@mtr.cz",
+    "name": "SUROVINY PAVEL SMÉKAL, s.r.o.",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+    "phone": "461 31 24 79",
+    "recycling_type": "centre",
+    "website": "http://www.surovinysmekal.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 329705861,
+  "nodes": [
+    3366320343,
+    3366320344,
+    3366320345,
+    3366320346,
+    3366320343
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr Mlazice",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 337883838,
+  "nodes": [
+    3449493345,
+    3449493343,
+    3449493342,
+    3449493344,
+    3449493345
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre",
+    "source": "survey; Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 342144448,
+  "nodes": [
+    3491752273,
+    3491752272,
+    3491752261,
+    3491752250,
+    3491752251,
+    3491752262,
+    3491752265,
+    3491752273
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 352296122,
+  "nodes": [
+    3580484207,
+    3580484206,
+    3580484205,
+    3580484203,
+    3580484204,
+    7115214490,
+    7875804769,
+    3580484210,
+    6318341080,
+    3580484211,
+    3580484213,
+    3580484214,
+    3580484212,
+    3580484209,
+    3580484208,
+    3580484207
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu,Th 10:00-15:00; We 11:00-18:00; Fr 12:00-18:00; Sa 09:00-12:00,14:00-17:00",
+    "operator": "Technické služby Čelákovice příspěvková organizace",
+    "recycling_type": "centre",
+    "website": "http://ts.celakovice-mesto.cz/sd_provoz.php"
+  }
+},
+{
+  "type": "way",
+  "id": 356831061,
+  "nodes": [
+    3622321520,
+    3622321521,
+    3622321522,
+    3622321523,
+    3622321524,
+    2725388220,
+    6331333004,
+    3622321526,
+    3622321527,
+    2725388319,
+    3622321528,
+    3622321529,
+    3622321520
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 361332499,
+  "nodes": [
+    3658230471,
+    3658230470,
+    3658230469,
+    3658230472,
+    4428209079,
+    3658230475,
+    4428209080,
+    3658230477,
+    5173451908,
+    4428209076,
+    4428209074,
+    3658230471
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "recycling_type": "centre",
+    "source": "survey; GPS track"
+  }
+},
+{
+  "type": "way",
+  "id": 366653861,
+  "nodes": [
+    3671800891,
+    3671800888,
+    3671800892,
+    3671800893,
+    3671800890,
+    3706431803,
+    3671800887,
+    4123791417,
+    4123791420,
+    3706431804,
+    3687384833,
+    3687384832,
+    1765157047,
+    3671800895,
+    3671800896,
+    3671800894,
+    3671800891
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 367426126,
+  "nodes": [
+    3713512559,
+    3713512558,
+    3713512555,
+    7313754067,
+    3713512549,
+    3713512550,
+    3713512554,
+    7313754066,
+    3713512559
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 368922798,
+  "nodes": [
+    2941953446,
+    2941953728,
+    3727615438,
+    3727615442,
+    3727615440,
+    3706160333,
+    3706160330,
+    3706160331,
+    2941953446
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 370043034,
+  "nodes": [
+    3737675020,
+    3737675016,
+    3737675011,
+    3737675010,
+    1517816781,
+    1517816766,
+    1517816771,
+    1517817052,
+    3737675020
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "wall",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 371733342,
+  "nodes": [
+    3243557560,
+    3243557569,
+    3243557583,
+    3243557520,
+    3243557577,
+    3243557588,
+    3243557610,
+    330731903,
+    4324792095,
+    4324792096,
+    330731907,
+    330731914,
+    330731911,
+    3752833500,
+    663123860,
+    663894756,
+    663894755,
+    663894757,
+    663894758,
+    663894851,
+    663894850,
+    663894844,
+    4324791620,
+    663894842,
+    663894841,
+    3752833505,
+    3752833504,
+    3243557302,
+    663894840,
+    3752833501,
+    3243557560
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Hlavního města Prahy",
+    "opening_hours": "Mo-Fr 08:30-17:00; Sa 08:30-15:00",
+    "phone": "+420 736 518 204",
+    "recycling_type": "centre",
+    "website": "https://www.komwag.cz/odpady/sberny-dvur-hl-m-prahy"
+  }
+},
+{
+  "type": "way",
+  "id": 374237791,
+  "nodes": [
+    3776085367,
+    3776085362,
+    3776085344,
+    3776085348,
+    3776085367
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building": "yes",
+    "building:ruian:type": "19",
+    "recycling_type": "centre",
+    "ref:ruian:building": "24550957",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 385300995,
+  "nodes": [
+    3886495089,
+    3886495090,
+    3886495091,
+    3886495092,
+    3886495093,
+    3886495094,
+    3886495095,
+    8201680743,
+    8201680742,
+    3886495089
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 396521236,
+  "nodes": [
+    2600628328,
+    3993327124,
+    2033403756,
+    2771972780,
+    2771972778,
+    2771972777,
+    3993327127,
+    3993327128,
+    3993327123,
+    3993327122,
+    2771974143,
+    3993327129,
+    2600628329,
+    3993327131,
+    2600628328
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "email": "skladka@bytiz.cz",
+    "name": "Recyklacni centrum Bytiz",
+    "opening_hours": "Mo-Sa 07:00-15:00",
+    "phone": "+420312312762",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 400008806,
+  "nodes": [
+    4026450318,
+    4026450319,
+    4026450320,
+    4026450322,
+    4026450321,
+    4026450318
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 400008807,
+  "nodes": [
+    4026450315,
+    4026450313,
+    4026450314,
+    4026450317,
+    4026450316,
+    4026450315
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source": "cuzk:km;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 414080901,
+  "nodes": [
+    4152757246,
+    4152757248,
+    4152757249,
+    4152757250,
+    4152757251,
+    4152757252,
+    4152757253,
+    4152757254,
+    4152757246
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 422038957,
+  "nodes": [
+    4217625182,
+    4217625183,
+    4217625184,
+    4217625181,
+    4217625182
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 431692192,
+  "nodes": [
+    4309170633,
+    4309170649,
+    4309170651,
+    4309170653,
+    4309170633
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "contact:website": "http://www.smkraliky.cz/dvur.html",
+    "description": "Příchod do areálu sběrných dvorů hlaste v kanceláři!",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Mo-Th 06:00-14:30; Apr-Oct Fr 06:00-17:00; Nov-Mar Fr 06:00-16:00; Apr-Oct Sa 08:00-12:00; Nov-Mar Sa off; Su,PH off",
+    "operator": "Služby města Králíky",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 435711881,
+  "nodes": [
+    4336124701,
+    4336124702,
+    4336124703,
+    4336124704,
+    4336124705,
+    4336124706,
+    4336124707,
+    4336124708,
+    4336124701
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Megašrot",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 490100163,
+  "nodes": [
+    4822829685,
+    4822829686,
+    4822829687,
+    4822829691,
+    4822829690,
+    4822829688,
+    4822829689,
+    4822829685
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "kompostárna",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 490154302,
+  "nodes": [
+    4823342094,
+    4823342095,
+    4823342098,
+    4823342096,
+    4823342097,
+    4823342094
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Dolní Bojanovice",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 497478781,
+  "nodes": [
+    4890364904,
+    4890364905,
+    4890364906,
+    4890364907,
+    4890364904
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 499670972,
+  "nodes": [
+    4909151610,
+    4909151614,
+    4909151615,
+    4909151616,
+    1583269564,
+    4909163457,
+    4909151609,
+    4909151608,
+    4909151607,
+    4909151606,
+    4909151613,
+    4909151612,
+    4909151611,
+    4909151610
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 499670974,
+  "nodes": [
+    4909151618,
+    4909155861,
+    4909158445,
+    1653315861,
+    4909151619,
+    4909151620,
+    4909153821,
+    4909153822,
+    4909153823,
+    4909151618
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "wall",
+    "name": "výkup kovů HOPR",
+    "operator": "HOPR .cz Zábřeh",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 499671920,
+  "nodes": [
+    4909151619,
+    4909163453,
+    4909163454,
+    4909163455,
+    1653315641,
+    1653315637,
+    1653315664,
+    1653315861,
+    4909151619
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 502843663,
+  "nodes": [
+    4932064422,
+    4932064423,
+    4932064424,
+    4932064425,
+    4932064422
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 506554709,
+  "nodes": [
+    4962660810,
+    4962660809,
+    4962660808,
+    4962660807,
+    4962660806,
+    4962660805,
+    4962660804,
+    4962660810
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 507670463,
+  "nodes": [
+    4971310401,
+    4971310400,
+    4971310399,
+    4971310402,
+    4971310398,
+    4971310401
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Sběrný dvůt",
+    "operator": "OZO",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 519097568,
+  "nodes": [
+    2765093477,
+    2765093506,
+    2765093484,
+    2765093461,
+    2765093477
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km;územní plán"
+  }
+},
+{
+  "type": "way",
+  "id": 525387207,
+  "nodes": [
+    5111150811,
+    5111150810,
+    5111150809,
+    5111150802,
+    5111150808,
+    5111150807,
+    5111150806,
+    5111150805,
+    5111150804,
+    5111150811
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "wall",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 537803343,
+  "nodes": [
+    5207022561,
+    5207022560,
+    5207022559,
+    5207022558,
+    5207022557,
+    5207022561
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 541907333,
+  "nodes": [
+    1190052055,
+    1190047017,
+    5239633063,
+    5239633062,
+    1190052055
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building:levels": "1",
+    "building:ruian:type": "13",
+    "recycling_type": "centre",
+    "ref:ruian:building": "81207689",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 541930858,
+  "nodes": [
+    5239856461,
+    5239856468,
+    5239856466,
+    5239856462,
+    5239856463,
+    5239856464,
+    5239856461
+  ],
+  "tags": {
+    "addr:city": "Horní Suchá",
+    "addr:postcode": "73535",
+    "addr:street": "Chrost",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Horní Suchá",
+    "operator": "Depos",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 547137374,
+  "nodes": [
+    5286650207,
+    5286650206,
+    5286650202,
+    5286650205,
+    5286650204,
+    5286650201,
+    5286650203,
+    5286650200,
+    5286650207
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr",
+    "operator": "OZO!!!",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 548846665,
+  "nodes": [
+    5302021714,
+    5302021713,
+    5302021712,
+    5302021711,
+    5302021714
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source:amenity": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 557277767,
+  "nodes": [
+    5374796204,
+    5374796205,
+    5374796206,
+    5374796210,
+    5374796207,
+    5374796208,
+    2198884243,
+    2198884241,
+    5374796209,
+    5374796204
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sbětný dvůr Planá",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 557361025,
+  "nodes": [
+    5375454495,
+    5375454496,
+    5375454497,
+    5375454498,
+    5375454495
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Sa 08:00-12:00",
+    "operator": "Obec Růžová",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 560761708,
+  "nodes": [
+    5407621031,
+    5407621035,
+    5407621036,
+    5407621037,
+    5407621032,
+    5407621031
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 566715423,
+  "nodes": [
+    5456822143,
+    5456822144,
+    5456822141,
+    5456822145,
+    5456822142,
+    5456822140,
+    5456822143
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 574531306,
+  "nodes": [
+    3356458758,
+    1629937052,
+    1629937044,
+    1629937050,
+    1629937046,
+    1629937022,
+    1629937003,
+    1629936992,
+    1629936967,
+    5514480156,
+    5514480155,
+    5514480153,
+    5514480154,
+    3356458758
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 579599610,
+  "nodes": [
+    5550494936,
+    5550494937,
+    5550494938,
+    6681517892,
+    5550494939,
+    6681517888,
+    5550494936
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 586960710,
+  "nodes": [
+    5607347584,
+    5607347585,
+    5607347586,
+    5607347587,
+    5607347584
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "website": "https://www.tsceskybrod.cz/sberny-dvur"
+  }
+},
+{
+  "type": "way",
+  "id": 610763012,
+  "nodes": [
+    5783889863,
+    5783889864,
+    5783889868,
+    5783889869,
+    5783889865,
+    5783889866,
+    5783889863
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Recyklační centrum, sběrný dvůr odpadů obce Ostopovice",
+    "operator": "Obec Ostopovice",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 616388436,
+  "nodes": [
+    5827845911,
+    5827845910,
+    5827845909,
+    5827845908,
+    5827845907,
+    5827845906,
+    5827845911
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr Lhota Rapotina",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 627608470,
+  "nodes": [
+    5924571242,
+    5924571241,
+    5924571240,
+    5924571236,
+    5924571239,
+    5924571238,
+    5924571237,
+    5924571242
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "landuse": "industrial",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 637804068,
+  "nodes": [
+    6012283813,
+    6012283814,
+    6012283815,
+    6012283816,
+    6012283813
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 641161226,
+  "nodes": [
+    6038800141,
+    6038800140,
+    6038800143,
+    6038800142,
+    6038800141
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "area": "yes",
+    "barrier": "wall",
+    "highway": "service",
+    "note": "position approx.",
+    "operator:cs": "obec Bašt",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 644780584,
+  "nodes": [
+    6062978749,
+    6062978750,
+    6062978751,
+    6062978752,
+    6062978753,
+    6062978749
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Myslivna",
+    "opening_hours": "Sa[1] 08:00-11:00",
+    "recycling_type": "centre",
+    "website": "https://www.chyne.cz/obecniurad/odpady/1276-nakladani-s-odpady"
+  }
+},
+{
+  "type": "way",
+  "id": 655052814,
+  "nodes": [
+    6137696008,
+    6137696009,
+    6137696016,
+    6137696010,
+    6137696011,
+    6137696012,
+    6137696008
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 655052816,
+  "nodes": [
+    6137696017,
+    6137696018,
+    7930771685,
+    6137696019,
+    6137696020,
+    6137696021,
+    7930771689,
+    7930771692,
+    6137696022,
+    6137696023,
+    6137696017
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 668632129,
+  "nodes": [
+    6261473385,
+    6261473386,
+    6261473387,
+    6261473388,
+    6261473389,
+    6261473390,
+    6261473385
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 669191758,
+  "nodes": [
+    6266478766,
+    6266478767,
+    6266478768,
+    6266478769,
+    6266478770,
+    6266478766
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 670399688,
+  "nodes": [
+    6278071607,
+    6278071608,
+    6278071609,
+    6278071610,
+    6278071611,
+    6278071612,
+    6278071613,
+    6278071614,
+    6278071615,
+    6278071616,
+    6278071607
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 670399689,
+  "nodes": [
+    6278071617,
+    6278071618,
+    7463650259,
+    7463650258,
+    7463650260,
+    2367513047,
+    2367513044,
+    6278071621,
+    6278071622,
+    6278071617
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 674624143,
+  "nodes": [
+    6317900070,
+    6317900069,
+    6317900061,
+    6317900068,
+    6317900067,
+    6317900066,
+    6317900065,
+    6317900064,
+    6317900063,
+    6317900070
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-13:00",
+    "operator": "FCC Česká republika s. r. o.",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 675549561,
+  "nodes": [
+    6314373394,
+    6326388682,
+    6326388681,
+    6314373393,
+    6314373394
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 683090040,
+  "nodes": [
+    6398146029,
+    6398146030,
+    6398146031,
+    6398146032,
+    6398146033,
+    6398146034,
+    6398146035,
+    1049665576,
+    6398146036,
+    6398146029
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 689299362,
+  "nodes": [
+    6466325630,
+    6466325631,
+    6466325632,
+    6466325636,
+    6466325633,
+    6466325630
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "operator": "Obec Býšť",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 700781970,
+  "nodes": [
+    5812194584,
+    6581085723,
+    6581085724,
+    6581123214,
+    6581123217,
+    5812194583,
+    5812194584
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 710675855,
+  "nodes": [
+    6681517847,
+    6681517858,
+    6681517859,
+    6681517860,
+    6681517861,
+    6681517862,
+    6681517863,
+    6681517864,
+    6681517865,
+    6681517866,
+    6681517867,
+    6681517868,
+    6681517869,
+    6681517870,
+    6681517871,
+    6681517872,
+    6681517873,
+    6681517849,
+    6681517848,
+    6681517847
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 719264701,
+  "nodes": [
+    6752675509,
+    6752675510,
+    6752675515,
+    6752675520,
+    6752675521,
+    5017829271,
+    5017829270,
+    6752675507,
+    6752675508,
+    6752675509
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 739670066,
+  "nodes": [
+    6925674398,
+    6925674399,
+    6925667391,
+    6925674400,
+    6925674401,
+    6925674402,
+    6925674403,
+    6925674398
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Mo 14:00-18:00; Th 14:00-18:00; Sa 09:00-14:00",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 744187273,
+  "nodes": [
+    6964911179,
+    6964911178,
+    6964911177,
+    6964911176,
+    6964911179
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "operator": "SAKO a.s.",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 755334242,
+  "nodes": [
+    284595380,
+    7055670565,
+    7055670575,
+    7055670576,
+    7055670577,
+    7055670566,
+    7055670578,
+    7055670550,
+    7055670549,
+    7055670548,
+    7055670547,
+    7055670546,
+    837199972,
+    7055670526,
+    7055670579,
+    7055670537,
+    7055670538,
+    7055670539,
+    7055670540,
+    6975265080,
+    6975265079,
+    7055670545,
+    6975265070,
+    284546707,
+    6975265071,
+    7055670544,
+    7055670523,
+    7055670543,
+    7055670580,
+    284595380
+  ],
+  "tags": {
+    "addr:city": "Český Krumlov",
+    "addr:postcode": "38101",
+    "addr:street": "Kaplická",
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 760804032,
+  "nodes": [
+    7107739483,
+    1860765173,
+    1860765271,
+    7107739482,
+    7107739481,
+    7107739480,
+    7107739483
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 762608616,
+  "nodes": [
+    7125647489,
+    7125647536,
+    7125647537,
+    7125647490,
+    7125647491,
+    7125647492,
+    7125647493,
+    7125647494,
+    7125647495,
+    7125647501,
+    7125647489
+  ],
+  "tags": {
+    "addr:city": "Větřní",
+    "addr:street": "Šumavská",
+    "amenity": "recycling",
+    "description": "Listopad-Březen: v pracovní dny otevřeno do 17:00",
+    "name": "Sběrný dvůr Větřní",
+    "opening_hours": "Mo 14-19; We 14-19; Fr 11-19; Sa 08-16",
+    "operator": "KAPEX s.r.o",
+    "operator:type": "public",
+    "phone": "+420775563381",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 775545824,
+  "nodes": [
+    7235106497,
+    7235106494,
+    7235106485,
+    7235073984,
+    7235073971,
+    7235106497
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 778013539,
+  "nodes": [
+    6936582608,
+    6936582632,
+    3770532078,
+    3770532059,
+    3770531933,
+    3770531922,
+    7261078936,
+    7261078937,
+    7261078938,
+    7261078939,
+    7261078940,
+    3770531830,
+    3770531817,
+    7261078941,
+    3770531627,
+    7261078944,
+    6936582620,
+    6936582610,
+    6936582609,
+    6936582633,
+    7261078942,
+    6936582634,
+    6936582608
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 782065347,
+  "nodes": [
+    423765888,
+    3241370694,
+    3241370696,
+    3241370689,
+    3241370680,
+    3241370677,
+    7108918576,
+    7108918577,
+    7301801677,
+    423765888
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Fr 16:00-17:00; Sa 10:00-11:30",
+    "operator": "Technické služby Čelákovice příspěvková organizace",
+    "recycling_type": "centre",
+    "website": "http://ts.celakovice-mesto.cz/sd_provoz.php"
+  }
+},
+{
+  "type": "way",
+  "id": 783706462,
+  "nodes": [
+    7320055336,
+    7320055337,
+    7320055338,
+    7320055339,
+    7320055336
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Výkupna surovin Záběhlice",
+    "recycling_type": "centre",
+    "website": "https://kovo-group.cz/#chodovska"
+  }
+},
+{
+  "type": "way",
+  "id": 792680946,
+  "nodes": [
+    7412219047,
+    7412219048,
+    7412219049,
+    7412219050,
+    7412219047
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 793751444,
+  "nodes": [
+    1310627820,
+    7424749655,
+    7424749656,
+    7424749657,
+    7424749658,
+    7424749659,
+    7424749660,
+    1310638363,
+    1310639345,
+    1310637170,
+    1310635508,
+    1310632766,
+    1310633656,
+    1310631790,
+    1310629980,
+    1310628042,
+    1310634512,
+    1310632575,
+    1310630739,
+    1310628820,
+    1310629772,
+    7424749654,
+    1310627820
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Kovošrot",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 793773152,
+  "nodes": [
+    7424971884,
+    7424978285,
+    7425014115,
+    7424978286,
+    7424978287,
+    1495478702,
+    1495478763,
+    7424978288,
+    1495478962,
+    1495478902,
+    1495479080,
+    3304535043,
+    3304535042,
+    7424971884
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "area": "yes",
+    "name": "Sběrný dvůr",
+    "opening_hours": "We 15:00-18:00, Su 9:00-12:00",
+    "operator": "Městys Ševětín",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 795483410,
+  "nodes": [
+    7440167033,
+    7440167034,
+    7440167035,
+    1310637279,
+    1310632369,
+    1310628974,
+    7440167036,
+    7440167033
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 799398551,
+  "nodes": [
+    7476327765,
+    7476327766,
+    7476327767,
+    7476327768,
+    6810920546,
+    7476327769,
+    7476327716,
+    7476327715,
+    7476327714,
+    7476327713,
+    7476327764,
+    7476327765
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 802202890,
+  "nodes": [
+    7503730172,
+    7503755288,
+    2261808479,
+    2261808429,
+    7503755287,
+    7503709884,
+    7503730174,
+    7503730173,
+    7503730172
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 804282366,
+  "nodes": [
+    3728767913,
+    7522964197,
+    7522964198,
+    1151023852,
+    3728767913
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 804944653,
+  "nodes": [
+    7529254704,
+    7529254705,
+    7529254706,
+    7529254707,
+    7529254708,
+    7529254709,
+    7529254710,
+    7529254711,
+    2149677362,
+    2149677363,
+    446283167,
+    446283164,
+    7529254712,
+    7529254704
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Pražské služby",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 810142955,
+  "nodes": [
+    7574268461,
+    7574268460,
+    7574268463,
+    7574268459,
+    7574268458,
+    7574268461
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "fence_type": "concrete",
+    "height": "2",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 819699422,
+  "nodes": [
+    4686572315,
+    4686572314,
+    7654808703,
+    7654808704,
+    4686572321,
+    4686572320,
+    4686572319,
+    4686572318,
+    4686572317,
+    4686572316,
+    4686572315
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "ECOWOOD Unhošť",
+    "opening_hours": "Mo-Fr 08:00-15:00; Sa 09:00-11:30",
+    "recycling_type": "centre",
+    "website": "http://www.ecowood.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 844193050,
+  "nodes": [
+    7874879795,
+    7874879796,
+    7874879797,
+    7874879798,
+    7874879799,
+    7874879800,
+    7874879801,
+    7874879795
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 845383235,
+  "nodes": [
+    5768107681,
+    7887217247,
+    7887217248,
+    7887217249,
+    7887217250,
+    5768107680,
+    5768107681
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 845815242,
+  "nodes": [
+    7891046366,
+    7891046367,
+    7891046368,
+    7891046369,
+    7891046366
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 849562172,
+  "nodes": [
+    7926097896,
+    7926097897,
+    7926097898,
+    7926097899,
+    7926097896
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 853247651,
+  "nodes": [
+    361425320,
+    7959179063,
+    7959186418,
+    7959186394,
+    5536353123,
+    1900286915,
+    7959179084,
+    7959186417,
+    7959186388,
+    7959186399,
+    7959179068,
+    7959186410,
+    361425321,
+    361425320
+  ],
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "5",
+    "addr:postcode": "10800",
+    "addr:street": "Teplárenská",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr hlavního města",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 856312566,
+  "nodes": [
+    7984410767,
+    7984410755,
+    7984410748,
+    7984410739,
+    7984444900,
+    7984410767
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 862145319,
+  "nodes": [
+    8032921920,
+    8032921921,
+    8032921922,
+    8032921923,
+    8032921924,
+    8032921925,
+    8032921926,
+    8032921927,
+    8032921915,
+    8032921914,
+    8032921928,
+    8032921920
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 862192227,
+  "nodes": [
+    8033296553,
+    375820853,
+    375820910,
+    375820952,
+    8033296553
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Kompostárna",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 862781060,
+  "nodes": [
+    8037708907,
+    8037708908,
+    8037708909,
+    8037708910,
+    8037708911,
+    8037708912,
+    1346081652,
+    1346084521,
+    1346088043,
+    8037708913,
+    8037708907
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 862876863,
+  "nodes": [
+    1345852274,
+    8038433458,
+    8038433451,
+    1345849861,
+    1345842162,
+    8038433452,
+    1916306380,
+    8038433453,
+    1916306453,
+    1916306461,
+    8038433454,
+    8038433455,
+    8038433456,
+    8038433457,
+    1345843634,
+    1345852274
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 863256435,
+  "nodes": [
+    8041807909,
+    8041807910,
+    8041807907,
+    8041807911,
+    8041807912,
+    8041807909
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 867057852,
+  "nodes": [
+    8082091725,
+    8082091724,
+    8082091723,
+    8082091722,
+    8082091721,
+    8082091720,
+    8082091719,
+    8082091718,
+    8082091717,
+    8082068016,
+    8082068015,
+    8082091725
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 869079911,
+  "nodes": [
+    1420268062,
+    1420268056,
+    8100556895,
+    1420268078,
+    1420268070,
+    8100556896,
+    8131912008,
+    8096404184,
+    1420268088,
+    1420268094,
+    1420268103,
+    8100556897,
+    8100556898,
+    1420268145,
+    1420268155,
+    1420268127,
+    1420268062
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 877933777,
+  "nodes": [
+    8151204457,
+    8151204467,
+    8151204455,
+    8151204454,
+    8151204446,
+    8151204445,
+    8151204444,
+    8151204457
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 879130809,
+  "nodes": [
+    8178510393,
+    8178510394,
+    8178510395,
+    1301977338,
+    8178527362,
+    8178527361,
+    8178527360,
+    8178527359,
+    8178527358,
+    1301977639,
+    8178510397,
+    8178510393
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 880534099,
+  "nodes": [
+    8190054287,
+    8190054288,
+    8190054289,
+    8190054290,
+    8190054287
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 883965605,
+  "nodes": [
+    8221022219,
+    8221022228,
+    8221022220,
+    8221022221,
+    8221022222,
+    8221022223,
+    8221022224,
+    8221022219
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 891363357,
+  "nodes": [
+    8285024983,
+    8285024984,
+    8285024985,
+    8285024986,
+    8285024983
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 891869695,
+  "nodes": [
+    8289345402,
+    8289345403,
+    8289345404,
+    8289345405,
+    904100763,
+    8289345402
+  ],
+  "tags": {
+    "addr:city": "Brandýs nad Labem-Stará Boleslav",
+    "addr:housenumber": "2345",
+    "addr:postcode": "25001",
+    "addr:street": "Strojírenská",
+    "amenity": "recycling",
+    "building": "industrial",
+    "name": "AVE CZ",
+    "operator": "AVE CZ",
+    "recycling_type": "centre"
+  }
+}
+
+  ]
+}
