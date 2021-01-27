@@ -1,5 +1,5 @@
 #!/bin/bash
-touch progress.txt
+> ./progress.txt
 echo "Sberna strediska" >> ./progress.txt
 cat ./undefined_recycling_center.json | grep 'centre' | wc -l >> ./progress.txt
 echo "Kontejnery" >> ./progress.txt
