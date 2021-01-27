@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-27T04:43:02Z",
-    "timestamp_areas_base": "2021-01-27T04:15:03Z",
+    "timestamp_osm_base": "2021-01-27T19:43:02Z",
+    "timestamp_areas_base": "2021-01-27T18:32:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1502,19 +1502,6 @@
 },
 {
   "type": "node",
-  "id": 705502566,
-  "lat": 49.2027578,
-  "lon": 16.5650680,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic_bottles": "yes",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
   "id": 722689305,
   "lat": 49.1098239,
   "lon": 16.0559316,
@@ -1833,17 +1820,6 @@
   "id": 871907969,
   "lat": 48.7919553,
   "lon": 16.0142666,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 879347726,
-  "lat": 48.8664556,
-  "lon": 16.0896352,
   "tags": {
     "amenity": "recycling",
     "recycling:glass": "yes",
@@ -2380,15 +2356,6 @@
 },
 {
   "type": "node",
-  "id": 1088584888,
-  "lat": 48.8654805,
-  "lon": 16.0369311,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 1119792350,
   "lat": 50.0519229,
   "lon": 14.5274931,
@@ -2403,28 +2370,6 @@
   "lon": 14.4307780,
   "tags": {
     "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 1144112605,
-  "lat": 48.8708046,
-  "lon": 16.0460669,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 1144112723,
-  "lat": 48.8712891,
-  "lon": 16.0397428,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
   }
 },
 {
@@ -3227,15 +3172,6 @@
 },
 {
   "type": "node",
-  "id": 1398502422,
-  "lat": 50.0880669,
-  "lon": 14.5840986,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 1399031842,
   "lat": 49.7535486,
   "lon": 18.3387238,
@@ -3785,44 +3721,6 @@
 },
 {
   "type": "node",
-  "id": 1630077972,
-  "lat": 50.0830425,
-  "lon": 14.5650960,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:beverage_cartons": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 1630078012,
-  "lat": 50.0831035,
-  "lon": 14.5701560,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:beverage_cartons": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 1630078366,
-  "lat": 50.0844551,
-  "lon": 14.5740904,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 1644017023,
   "lat": 49.5428867,
   "lon": 16.9954991,
@@ -3915,19 +3813,6 @@
   "lon": 14.3020042,
   "tags": {
     "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 1669844281,
-  "lat": 50.0898605,
-  "lon": 14.5663971,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:beverage_cartons": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
   }
 },
 {
@@ -9115,15 +9000,6 @@
 },
 {
   "type": "node",
-  "id": 4244258189,
-  "lat": 49.1813279,
-  "lon": 16.6904259,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 4256083516,
   "lat": 49.4579367,
   "lon": 18.1306281,
@@ -10494,22 +10370,6 @@
 },
 {
   "type": "way",
-  "id": 32246528,
-  "nodes": [
-    361737721,
-    361737726,
-    361737733,
-    361737737,
-    361737740,
-    361737721
-  ],
-  "tags": {
-    "amenity": "recycling",
-    "barrier": "fence"
-  }
-},
-{
-  "type": "way",
   "id": 44069557,
   "nodes": [
     540367181,
@@ -11415,36 +11275,6 @@
   "id": 3935708116,
   "lat": 49.1886388,
   "lon": 16.6440914
-},
-{
-  "type": "node",
-  "id": 361737721,
-  "lat": 49.1767827,
-  "lon": 16.6825481
-},
-{
-  "type": "node",
-  "id": 361737726,
-  "lat": 49.1767477,
-  "lon": 16.6824737
-},
-{
-  "type": "node",
-  "id": 361737733,
-  "lat": 49.1765214,
-  "lon": 16.6821813
-},
-{
-  "type": "node",
-  "id": 361737737,
-  "lat": 49.1765792,
-  "lon": 16.6820803
-},
-{
-  "type": "node",
-  "id": 361737740,
-  "lat": 49.1768478,
-  "lon": 16.6824194
 },
 {
   "type": "node",
