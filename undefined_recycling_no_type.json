@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-29T05:17:02Z",
-    "timestamp_areas_base": "2021-01-29T04:57:03Z",
+    "timestamp_osm_base": "2021-01-30T05:16:03Z",
+    "timestamp_areas_base": "2021-01-30T04:18:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -6461,42 +6461,6 @@
 },
 {
   "type": "node",
-  "id": 2961896153,
-  "lat": 49.6063595,
-  "lon": 16.8608867,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2961896200,
-  "lat": 49.6099361,
-  "lon": 16.8626625,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2961896229,
-  "lat": 49.6104078,
-  "lon": 16.8621815,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2961896346,
-  "lat": 49.6136667,
-  "lon": 16.8455175,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 2968008480,
   "lat": 49.5052228,
   "lon": 16.9868548,
@@ -6923,24 +6887,6 @@
 },
 {
   "type": "node",
-  "id": 3128351806,
-  "lat": 49.6071752,
-  "lon": 16.9521813,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3128351827,
-  "lat": 49.6096969,
-  "lon": 16.9397443,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 3129276309,
   "lat": 49.6888370,
   "lon": 13.6586903,
@@ -7002,33 +6948,6 @@
   "id": 3149696722,
   "lat": 49.5317281,
   "lon": 14.8095617,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3153273433,
-  "lat": 49.4676759,
-  "lon": 16.5403333,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3153273556,
-  "lat": 49.4693017,
-  "lon": 16.5439239,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3153273661,
-  "lat": 49.4693744,
-  "lon": 16.5379808,
   "tags": {
     "amenity": "recycling"
   }
@@ -7612,33 +7531,6 @@
   "id": 3586378352,
   "lat": 49.6802867,
   "lon": 16.9303134,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3586778607,
-  "lat": 49.4089654,
-  "lon": 16.7002497,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3586778737,
-  "lat": 49.4118685,
-  "lon": 16.6998505,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3586778845,
-  "lat": 49.4215561,
-  "lon": 16.6996324,
   "tags": {
     "amenity": "recycling"
   }
@@ -10296,21 +10188,6 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "recycling:waste": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 8370776876,
-  "lat": 49.1787183,
-  "lon": 16.5968695,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:batteries": "yes",
-    "recycling:clothes": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic_packaging": "yes",
-    "recycling:small_appliances": "yes"
   }
 },
 {
