@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2021-01-31T05:06:03Z",
-    "timestamp_areas_base": "2021-01-31T04:02:02Z",
+    "timestamp_osm_base": "2021-02-01T05:07:02Z",
+    "timestamp_areas_base": "2021-02-01T04:29:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -18162,6 +18162,17 @@
 },
 {
   "type": "node",
+  "id": 4168120580,
+  "lat": 50.1884141,
+  "lon": 15.8303084,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 4171831978,
   "lat": 49.9781551,
   "lon": 15.7686881,
@@ -20321,16 +20332,6 @@
 },
 {
   "type": "node",
-  "id": 4903931209,
-  "lat": 49.7648559,
-  "lon": 15.9183313,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 4903946794,
   "lat": 49.7644714,
   "lon": 15.9205833,
@@ -20354,16 +20355,6 @@
   "id": 4904466504,
   "lat": 49.7619373,
   "lon": 15.9031547,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 4904474411,
-  "lat": 49.7618812,
-  "lon": 15.9010761,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -20876,16 +20867,6 @@
   "id": 4967805632,
   "lat": 49.9775535,
   "lon": 16.9513638,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 4968220708,
-  "lat": 48.8327621,
-  "lon": 16.9775793,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -42361,6 +42342,16 @@
   "id": 8379022396,
   "lat": 48.7291401,
   "lon": 14.6216989,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8381274585,
+  "lat": 48.9506798,
+  "lon": 14.3531863,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
