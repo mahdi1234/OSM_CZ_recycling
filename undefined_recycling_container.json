@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
-    "timestamp_osm_base": "2021-02-03T05:01:03Z",
-    "timestamp_areas_base": "2021-02-03T04:06:02Z",
+    "timestamp_osm_base": "2021-02-04T04:58:03Z",
+    "timestamp_areas_base": "2021-02-04T03:54:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -17400,17 +17400,6 @@
 },
 {
   "type": "node",
-  "id": 3896387181,
-  "lat": 49.9464712,
-  "lon": 16.1503364,
-  "tags": {
-    "amenity": "recycling",
-    "location": "overground",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 3896387182,
   "lat": 49.9465822,
   "lon": 16.1529604,
@@ -29114,16 +29103,6 @@
   "id": 6579819448,
   "lat": 49.4379899,
   "lon": 18.2637151,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 6580424201,
-  "lat": 50.1289552,
-  "lon": 14.4777247,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -40869,16 +40848,6 @@
 },
 {
   "type": "node",
-  "id": 8092356848,
-  "lat": 49.8810940,
-  "lon": 15.8228767,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 8103868061,
   "lat": 49.5765835,
   "lon": 17.2433168,
@@ -42433,6 +42402,16 @@
   "id": 8388710617,
   "lat": 48.9655948,
   "lon": 14.4201866,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8392150672,
+  "lat": 50.3207504,
+  "lon": 16.3179084,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
