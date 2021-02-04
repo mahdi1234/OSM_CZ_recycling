@@ -3,4 +3,4 @@ Sberna strediska
 Kontejnery
 4205
 Bez typu
-1043
+1042
