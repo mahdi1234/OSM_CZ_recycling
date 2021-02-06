@@ -599,6 +599,17 @@
 },
 {
   "type": "node",
+  "id": 5174734285,
+  "lat": 49.4617732,
+  "lon": 18.1160206,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Rožnov pod Radhoštěm",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
   "id": 5310653835,
   "lat": 48.6202368,
   "lon": 14.2560538,

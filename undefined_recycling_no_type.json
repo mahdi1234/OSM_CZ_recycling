@@ -4447,51 +4447,6 @@
 },
 {
   "type": "node",
-  "id": 2048572068,
-  "lat": 49.4674073,
-  "lon": 18.1407749,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2048572085,
-  "lat": 49.4612084,
-  "lon": 18.1352709,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2048572088,
-  "lat": 49.4662359,
-  "lon": 18.1392138,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2048572123,
-  "lat": 49.4622336,
-  "lon": 18.1387380,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2048572132,
-  "lat": 49.4620887,
-  "lon": 18.1369259,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 2063287631,
   "lat": 50.3969120,
   "lon": 16.0433765,
@@ -4505,24 +4460,6 @@
   "id": 2066913354,
   "lat": 50.3646180,
   "lon": 17.0278948,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2070468058,
-  "lat": 49.4660026,
-  "lon": 18.1341588,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2070735500,
-  "lat": 49.4646973,
-  "lon": 18.1448711,
   "tags": {
     "amenity": "recycling"
   }
@@ -5289,15 +5226,6 @@
 },
 {
   "type": "node",
-  "id": 2435360646,
-  "lat": 49.4708923,
-  "lon": 18.1436957,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 2441196484,
   "lat": 49.8601546,
   "lon": 14.5599747,
@@ -5445,15 +5373,6 @@
   "id": 2495917208,
   "lat": 49.7731230,
   "lon": 18.3650975,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2503301091,
-  "lat": 49.4643024,
-  "lon": 18.1357473,
   "tags": {
     "amenity": "recycling"
   }
@@ -5720,42 +5639,6 @@
   "tags": {
     "amenity": "recycling",
     "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2678294520,
-  "lat": 49.4570078,
-  "lon": 18.1321117,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:clothes": "no",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 2678294693,
-  "lat": 49.4560936,
-  "lon": 18.1447673,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:cans": "yes",
-    "recycling:clothes": "no",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 2678302119,
-  "lat": 49.4550714,
-  "lon": 18.1499997,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
   }
 },
 {
@@ -6255,17 +6138,6 @@
 },
 {
   "type": "node",
-  "id": 2927663412,
-  "lat": 49.4577730,
-  "lon": 18.1389067,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 2939811536,
   "lat": 49.4414278,
   "lon": 16.8554225,
@@ -6539,51 +6411,6 @@
   "tags": {
     "amenity": "recycling",
     "recycling:clothes": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3054401346,
-  "lat": 49.4627457,
-  "lon": 18.1356973,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3054401348,
-  "lat": 49.4622587,
-  "lon": 18.1331424,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3054401350,
-  "lat": 49.4663606,
-  "lon": 18.1330000,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3054401351,
-  "lat": 49.4690862,
-  "lon": 18.1401016,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3054401352,
-  "lat": 49.4808459,
-  "lon": 18.1412321,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {
@@ -7034,20 +6861,6 @@
   "tags": {
     "amenity": "recycling",
     "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3280484861,
-  "lat": 49.4658053,
-  "lon": 18.1518006,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:cans": "yes",
-    "recycling:clothes": "no",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
   }
 },
 {
@@ -8449,15 +8262,6 @@
 },
 {
   "type": "node",
-  "id": 4161551989,
-  "lat": 49.4485990,
-  "lon": 18.1699358,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 4166028505,
   "lat": 49.4526985,
   "lon": 16.3253479,
@@ -8488,63 +8292,6 @@
 },
 {
   "type": "node",
-  "id": 4190272705,
-  "lat": 49.4655950,
-  "lon": 18.1265135,
-  "tags": {
-    "amenity": "recycling",
-    "operator": "Město Rožnov pod Radhoštěm",
-    "recycling:electrical_appliances": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4190272706,
-  "lat": 49.4660675,
-  "lon": 18.1254134,
-  "tags": {
-    "amenity": "recycling",
-    "operator": "Město Rožnov pod Radhoštěm",
-    "recycling:beverage_cartons": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4190272707,
-  "lat": 49.4664387,
-  "lon": 18.1272714,
-  "tags": {
-    "amenity": "recycling",
-    "operator": "Město Rožnov pod Radhoštěm",
-    "recycling:beverage_cartons": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes",
-    "recycling:scrap_metal": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4190272708,
-  "lat": 49.4656377,
-  "lon": 18.1274563,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:beverage_carton": "yes",
-    "recycling:clothes": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 4190764520,
   "lat": 49.4491589,
   "lon": 18.1609754,
@@ -8552,231 +8299,6 @@
     "amenity": "recycling",
     "recycling:paper": "yes",
     "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275686,
-  "lat": 49.4590105,
-  "lon": 18.1315243,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275687,
-  "lat": 49.4587974,
-  "lon": 18.1330211,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275688,
-  "lat": 49.4583269,
-  "lon": 18.1360461,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275789,
-  "lat": 49.4577495,
-  "lon": 18.1256690,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275790,
-  "lat": 49.4618661,
-  "lon": 18.1314236,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275791,
-  "lat": 49.4632354,
-  "lon": 18.1379123,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275792,
-  "lat": 49.4602278,
-  "lon": 18.1426279,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275793,
-  "lat": 49.4573709,
-  "lon": 18.1430104,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275794,
-  "lat": 49.4585833,
-  "lon": 18.1466162,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275795,
-  "lat": 49.4588173,
-  "lon": 18.1476653,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275796,
-  "lat": 49.4560846,
-  "lon": 18.1421396,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275797,
-  "lat": 49.4515648,
-  "lon": 18.1591059,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275798,
-  "lat": 49.4578216,
-  "lon": 18.1485872,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275799,
-  "lat": 49.4654811,
-  "lon": 18.1324442,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275800,
-  "lat": 49.4646308,
-  "lon": 18.1280360,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275801,
-  "lat": 49.4646386,
-  "lon": 18.1257194,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275802,
-  "lat": 49.4663558,
-  "lon": 18.1377850,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275803,
-  "lat": 49.4668166,
-  "lon": 18.1582297,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192275804,
-  "lat": 49.4815118,
-  "lon": 18.1691953,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192276529,
-  "lat": 49.4688792,
-  "lon": 18.1540872,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192276530,
-  "lat": 49.4681935,
-  "lon": 18.1435220,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192283949,
-  "lat": 49.4650412,
-  "lon": 18.1340139,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192283950,
-  "lat": 49.4658330,
-  "lon": 18.1392317,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192283951,
-  "lat": 49.4595069,
-  "lon": 18.1300858,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4192291472,
-  "lat": 49.4747337,
-  "lon": 18.1619344,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {
@@ -8829,15 +8351,6 @@
   "id": 4241431320,
   "lat": 49.9852450,
   "lon": 15.2569944,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4256083516,
-  "lat": 49.4579367,
-  "lon": 18.1306281,
   "tags": {
     "amenity": "recycling"
   }
@@ -9064,16 +8577,6 @@
   "lon": 14.5007698,
   "tags": {
     "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4405685936,
-  "lat": 49.4664965,
-  "lon": 18.1324338,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:organic": "yes"
   }
 },
 {
@@ -9359,16 +8862,6 @@
   "lon": 16.8755678,
   "tags": {
     "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 5174734285,
-  "lat": 49.4617732,
-  "lon": 18.1160206,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Sběrný dvůr Rožnov pod Radhoštěm"
   }
 },
 {
