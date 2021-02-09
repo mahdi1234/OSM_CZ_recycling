@@ -3711,6 +3711,21 @@
     "operator": "AVE CZ",
     "recycling_type": "centre"
   }
+},
+{
+  "type": "way",
+  "id": 905014461,
+  "nodes": [
+    8404686830,
+    8404686831,
+    8404686832,
+    8404686833,
+    8404686830
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
+  }
 }
 
   ]
