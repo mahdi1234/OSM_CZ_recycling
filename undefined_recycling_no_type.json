@@ -1907,21 +1907,6 @@
 },
 {
   "type": "node",
-  "id": 910543535,
-  "lat": 49.8162418,
-  "lon": 16.0308966,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Sklo,plasty",
-    "operator": "Město Skuteč",
-    "recycling:cans": "no",
-    "recycling:clothes": "no",
-    "recycling:glass": "yes",
-    "recycling:paper": "no"
-  }
-},
-{
-  "type": "node",
   "id": 913890132,
   "lat": 49.5922223,
   "lon": 13.0967184,
@@ -3445,8 +3430,8 @@
 {
   "type": "node",
   "id": 1470660914,
-  "lat": 50.9913075,
-  "lon": 14.3334010,
+  "lat": 50.9904777,
+  "lon": 14.3343941,
   "tags": {
     "amenity": "recycling"
   }
@@ -9515,8 +9500,8 @@
 {
   "type": "node",
   "id": 7854495689,
-  "lat": 50.0729584,
-  "lon": 14.4762300,
+  "lat": 50.0729586,
+  "lon": 14.4762181,
   "tags": {
     "amenity": "recycling",
     "recycling:glass_bottles": "yes",

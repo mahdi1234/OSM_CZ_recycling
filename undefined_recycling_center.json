@@ -748,29 +748,8 @@
   "tags": {
     "amenity": "recycling",
     "name": "Sběrný dvůr",
-    "recycling_type": "centre"
-  }
-},
-{
-  "type": "node",
-  "id": 6441907362,
-  "lat": 48.9155823,
-  "lon": 17.1761403,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "centre"
-  }
-},
-{
-  "type": "node",
-  "id": 6638761340,
-  "lat": 49.2546065,
-  "lon": 16.5115976,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Sběrný dvůr odpadů Rozdrojovice",
-    "opening_hours": "Mo-Th 07:00-09:00; Tu,Fr 07:00-09:00,16:00-19:00; Sa 11:00-14:00",
-    "recycling_type": "centre"
+    "recycling_type": "centre",
+    "website": "https://www.vacenovice.cz/urad-1/sberny-dvur/"
   }
 },
 {
@@ -3709,21 +3688,6 @@
     "building": "industrial",
     "name": "AVE CZ",
     "operator": "AVE CZ",
-    "recycling_type": "centre"
-  }
-},
-{
-  "type": "way",
-  "id": 905014461,
-  "nodes": [
-    8404686830,
-    8404686831,
-    8404686832,
-    8404686833,
-    8404686830
-  ],
-  "tags": {
-    "amenity": "recycling",
     "recycling_type": "centre"
   }
 }
