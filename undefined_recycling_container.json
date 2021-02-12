@@ -42694,6 +42694,18 @@
   }
 },
 {
+  "type": "node",
+  "id": 8414630038,
+  "lat": 50.0693773,
+  "lon": 14.4622608,
+  "tags": {
+    "amenity": "recycling",
+    "covered": "no",
+    "indoor": "no",
+    "recycling_type": "container"
+  }
+},
+{
   "type": "way",
   "id": 74371159,
   "nodes": [
