@@ -9486,19 +9486,6 @@
 },
 {
   "type": "node",
-  "id": 7854495689,
-  "lat": 50.0729586,
-  "lon": 14.4762181,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass_bottles": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes",
-    "recycling_type": "underfloor-container"
-  }
-},
-{
-  "type": "node",
   "id": 7855213273,
   "lat": 50.6946910,
   "lon": 14.5372153,
