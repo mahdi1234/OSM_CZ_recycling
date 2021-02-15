@@ -3217,19 +3217,6 @@
 },
 {
   "type": "node",
-  "id": 7293761272,
-  "lat": 48.7620993,
-  "lon": 16.8895905,
-  "tags": {
-    "addr:housenumber": "2",
-    "addr:street": "Sovadinova",
-    "amenity": "recycling",
-    "name": "Sběrný dvůr",
-    "website": "https://www.ave.cz/cs/jihomoravsky-kraj/provozovna-breclav/sberny-dvur/sberny-dvur-breclav"
-  }
-},
-{
-  "type": "node",
   "id": 2577446970,
   "lat": 48.8517690,
   "lon": 17.1336412,
@@ -6692,15 +6679,6 @@
 },
 {
   "type": "node",
-  "id": 1247310796,
-  "lat": 50.0745065,
-  "lon": 14.4546094,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 2161935834,
   "lat": 50.0785481,
   "lon": 14.4514758,
@@ -9112,15 +9090,6 @@
 },
 {
   "type": "node",
-  "id": 7993475581,
-  "lat": 50.2417597,
-  "lon": 15.9538822,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 2459841173,
   "lat": 50.2913112,
   "lon": 16.1455382,
@@ -9665,27 +9634,6 @@
 },
 {
   "type": "way",
-  "id": 219448513,
-  "center": {
-    "lat": 49.0424120,
-    "lon": 16.5939836
-  },
-  "nodes": [
-    2286058503,
-    2286058502,
-    2286058504,
-    2286058506,
-    2286058501,
-    2286058505,
-    2286058503
-  ],
-  "tags": {
-    "amenity": "recycling",
-    "name": "Sběrný dvůr"
-  }
-},
-{
-  "type": "way",
   "id": 366119633,
   "center": {
     "lat": 49.2068841,
@@ -9854,29 +9802,6 @@
 },
 {
   "type": "way",
-  "id": 85704440,
-  "center": {
-    "lat": 49.2040173,
-    "lon": 16.7825559
-  },
-  "nodes": [
-    994707758,
-    994708296,
-    1467079063,
-    1467079066,
-    994708029,
-    994708149,
-    994707758
-  ],
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic_bottles": "yes"
-  }
-},
-{
-  "type": "way",
   "id": 422137361,
   "center": {
     "lat": 49.3629610,
@@ -9924,24 +9849,6 @@
     4218592035,
     4218592036,
     4218592033
-  ],
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "way",
-  "id": 106493144,
-  "center": {
-    "lat": 49.2012645,
-    "lon": 17.4828762
-  },
-  "nodes": [
-    924447010,
-    924447013,
-    924447012,
-    924447011,
-    924447010
   ],
   "tags": {
     "amenity": "recycling"

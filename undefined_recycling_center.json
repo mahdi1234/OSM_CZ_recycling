@@ -411,6 +411,20 @@
 },
 {
   "type": "node",
+  "id": 7293761272,
+  "lat": 48.7620993,
+  "lon": 16.8895905,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Sovadinova",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "website": "https://www.ave.cz/cs/jihomoravsky-kraj/provozovna-breclav/sberny-dvur/sberny-dvur-breclav"
+  }
+},
+{
+  "type": "node",
   "id": 8191674114,
   "lat": 48.9884352,
   "lon": 16.7919004,
@@ -2795,6 +2809,26 @@
     "barrier": "fence",
     "name": "Sběrný dvůr",
     "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 106493144,
+  "center": {
+    "lat": 49.2012645,
+    "lon": 17.4828762
+  },
+  "nodes": [
+    924447010,
+    924447013,
+    924447012,
+    924447011,
+    924447010
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "website": "https://www.zlutava.cz/obec-608/odpad-centrum/"
   }
 },
 {
