@@ -16790,16 +16790,6 @@
 },
 {
   "type": "node",
-  "id": 6876069441,
-  "lat": 49.1946806,
-  "lon": 16.5828290,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 7847668089,
   "lat": 49.2081266,
   "lon": 16.5818316,
@@ -31297,16 +31287,6 @@
   "tags": {
     "amenity": "recycling",
     "created_by": "Potlatch 0.10f",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 2245320221,
-  "lat": 50.0815044,
-  "lon": 14.4549138,
-  "tags": {
-    "amenity": "recycling",
     "recycling_type": "container"
   }
 },
