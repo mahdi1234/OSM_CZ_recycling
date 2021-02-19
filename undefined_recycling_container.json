@@ -25573,6 +25573,7 @@
   "lon": 13.8734279,
   "tags": {
     "amenity": "recycling",
+    "recycling": "yes",
     "recycling_type": "container"
   }
 },
@@ -25583,6 +25584,7 @@
   "lon": 13.8757930,
   "tags": {
     "amenity": "recycling",
+    "recycling": "yes",
     "recycling_type": "container"
   }
 },

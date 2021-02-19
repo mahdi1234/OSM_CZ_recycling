@@ -8556,17 +8556,6 @@
 },
 {
   "type": "node",
-  "id": 6812204687,
-  "lat": 50.9606573,
-  "lon": 14.5252257,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Kontejnery na tříděný odpad",
-    "name:cs": "Kontejnery na tříděný odpad"
-  }
-},
-{
-  "type": "node",
   "id": 2795818884,
   "lat": 50.9934341,
   "lon": 14.3313386,
