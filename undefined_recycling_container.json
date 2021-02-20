@@ -32047,28 +32047,6 @@
 },
 {
   "type": "node",
-  "id": 5316323889,
-  "lat": 50.1055119,
-  "lon": 14.4497956,
-  "tags": {
-    "amenity": "recycling",
-    "location": "overground",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 2321031854,
-  "lat": 50.1052527,
-  "lon": 14.4523350,
-  "tags": {
-    "amenity": "recycling",
-    "location": "overground",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 2321031856,
   "lat": 50.1029971,
   "lon": 14.4525699,
@@ -32105,17 +32083,6 @@
   "id": 2321031865,
   "lat": 50.1037748,
   "lon": 14.4541884,
-  "tags": {
-    "amenity": "recycling",
-    "location": "overground",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 5316323887,
-  "lat": 50.1042156,
-  "lon": 14.4515833,
   "tags": {
     "amenity": "recycling",
     "location": "overground",
@@ -38374,6 +38341,16 @@
 },
 {
   "type": "node",
+  "id": 8438978556,
+  "lat": 50.1765150,
+  "lon": 14.8101571,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 4432742378,
   "lat": 50.1810301,
   "lon": 14.7965914,
@@ -40875,16 +40852,6 @@
 },
 {
   "type": "node",
-  "id": 4909275038,
-  "lat": 50.6419356,
-  "lon": 15.2567804,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 5542788217,
   "lat": 50.7053937,
   "lon": 15.1263708,
@@ -41254,16 +41221,6 @@
 },
 {
   "type": "node",
-  "id": 7011937339,
-  "lat": 50.0267403,
-  "lon": 16.0559942,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 7008976140,
   "lat": 50.0560646,
   "lon": 15.9663715,
@@ -41307,16 +41264,6 @@
   "id": 7011708240,
   "lat": 50.0833777,
   "lon": 15.9821838,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7017004847,
-  "lat": 50.0456540,
-  "lon": 16.0277881,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
