@@ -2556,6 +2556,15 @@
 },
 {
   "type": "node",
+  "id": 8440766239,
+  "lat": 49.1665633,
+  "lon": 16.5544303,
+  "tags": {
+    "amenity": "recycling"
+  }
+},
+{
+  "type": "node",
   "id": 2465786896,
   "lat": 49.2467717,
   "lon": 16.5053116,
@@ -2764,6 +2773,15 @@
 },
 {
   "type": "node",
+  "id": 8440738072,
+  "lat": 49.1703605,
+  "lon": 16.7278344,
+  "tags": {
+    "amenity": "recycling"
+  }
+},
+{
+  "type": "node",
   "id": 660804472,
   "lat": 49.2309083,
   "lon": 16.5708913,
@@ -2911,15 +2929,6 @@
     "recycling:plastic_bottles": "yes",
     "recycling:plastic_packaging": "yes",
     "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2131268865,
-  "lat": 49.4123710,
-  "lon": 16.5804237,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {
@@ -8764,15 +8773,6 @@
     "recycling:glass": "yes",
     "recycling:paper": "yes",
     "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3895762557,
-  "lat": 50.1890774,
-  "lon": 15.8324699,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {
