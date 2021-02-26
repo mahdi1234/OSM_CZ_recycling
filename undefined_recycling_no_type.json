@@ -8,19 +8,6 @@
 
 {
   "type": "node",
-  "id": 1469911478,
-  "lat": 49.3335497,
-  "lon": 13.0283806,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
   "id": 2673371780,
   "lat": 49.3654000,
   "lon": 13.1663333,
@@ -3980,8 +3967,8 @@
 {
   "type": "node",
   "id": 3095744722,
-  "lat": 49.5905407,
-  "lon": 17.2380926,
+  "lat": 49.5905373,
+  "lon": 17.2380784,
   "tags": {
     "amenity": "recycling"
   }
@@ -7338,17 +7325,6 @@
 },
 {
   "type": "node",
-  "id": 7773550534,
-  "lat": 50.1072056,
-  "lon": 14.4527682,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 7713638342,
   "lat": 50.1180249,
   "lon": 14.4333077,
@@ -8813,24 +8789,6 @@
   "id": 3896304479,
   "lat": 50.2002974,
   "lon": 15.8149686,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 8450175835,
-  "lat": 50.1868283,
-  "lon": 15.8377329,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 8450175836,
-  "lat": 50.1873039,
-  "lon": 15.8367639,
   "tags": {
     "amenity": "recycling"
   }
