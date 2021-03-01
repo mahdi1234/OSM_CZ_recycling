@@ -2751,11 +2751,12 @@
 },
 {
   "type": "node",
-  "id": 3838515157,
-  "lat": 49.1620528,
-  "lon": 16.7248400,
+  "id": 8467772228,
+  "lat": 49.1642962,
+  "lon": 16.7336835,
   "tags": {
-    "amenity": "recycling"
+    "amenity": "recycling",
+    "recycling:green_waste": "yes"
   }
 },
 {
@@ -9316,29 +9317,6 @@
     "recycling:batteries": "yes",
     "recycling:glass": "yes",
     "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 921318301,
-  "lat": 50.4184297,
-  "lon": 16.1437957,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4166815105,
-  "lat": 50.4550124,
-  "lon": 16.0278318,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Kontejnery",
-    "recycling:glass": "yes",
-    "recycling:plastic": "yes"
   }
 },
 {
