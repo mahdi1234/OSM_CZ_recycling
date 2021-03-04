@@ -1,6 +1,6 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -773,10 +773,11 @@
 {
   "type": "node",
   "id": 2683687841,
-  "lat": 50.1028344,
-  "lon": 14.7271126,
+  "lat": 50.1028886,
+  "lon": 14.7272271,
   "tags": {
     "amenity": "recycling",
+    "name": "Sběrný dvůr odpadů Horoušany",
     "recycling_type": "centre"
   }
 },

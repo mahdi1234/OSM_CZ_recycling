@@ -1,6 +1,6 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -5132,15 +5132,6 @@
   "id": 498432148,
   "lat": 49.9584986,
   "lon": 14.3616948,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 1045210616,
-  "lat": 50.0317740,
-  "lon": 14.3105939,
   "tags": {
     "amenity": "recycling"
   }
