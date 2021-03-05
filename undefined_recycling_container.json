@@ -1,6 +1,6 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "generator": "Overpass API 0.7.56.8 7d656e78",
   "osm3s": {
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -9944,16 +9944,6 @@
   "id": 7620863384,
   "lat": 49.8956858,
   "lon": 13.5795924,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 8324523717,
-  "lat": 49.9252662,
-  "lon": 13.5967622,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -33401,17 +33391,6 @@
 },
 {
   "type": "node",
-  "id": 1455814109,
-  "lat": 50.0330504,
-  "lon": 14.5255011,
-  "tags": {
-    "amenity": "recycling",
-    "location": "overground",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 1455814110,
   "lat": 50.0331951,
   "lon": 14.5250116,
@@ -36582,9 +36561,50 @@
 },
 {
   "type": "node",
+  "id": 4768030226,
+  "lat": 50.1269376,
+  "lon": 14.4963438,
+  "tags": {
+    "amenity": "recycling",
+    "location": "overground",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8487497914,
+  "lat": 50.1300831,
+  "lon": 14.4925117,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8487497915,
+  "lat": 50.1284316,
+  "lon": 14.4950572,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 8387987329,
   "lat": 50.1185754,
   "lon": 14.4974363,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8487497907,
+  "lat": 50.1224522,
+  "lon": 14.4982409,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -36603,12 +36623,11 @@
 },
 {
   "type": "node",
-  "id": 4768030226,
-  "lat": 50.1272622,
-  "lon": 14.4967408,
+  "id": 8487497908,
+  "lat": 50.1277318,
+  "lon": 14.5022844,
   "tags": {
     "amenity": "recycling",
-    "location": "overground",
     "recycling_type": "container"
   }
 },
@@ -36910,8 +36929,8 @@
 {
   "type": "node",
   "id": 7688389425,
-  "lat": 50.0533706,
-  "lon": 14.5800629,
+  "lat": 50.0533555,
+  "lon": 14.5800537,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
