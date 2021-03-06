@@ -7685,17 +7685,6 @@
 },
 {
   "type": "node",
-  "id": 3472633636,
-  "lat": 50.0515761,
-  "lon": 14.5424643,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:cans": "yes",
-    "recycling:glass": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 2849879739,
   "lat": 50.0453558,
   "lon": 14.5625389,

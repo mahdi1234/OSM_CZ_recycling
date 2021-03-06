@@ -1,6 +1,6 @@
 Sberna strediska
 222
 Kontejnery
-4239
+4237
 Bez typu
-971
+970
