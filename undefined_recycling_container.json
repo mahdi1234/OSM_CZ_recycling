@@ -16668,49 +16668,11 @@
 },
 {
   "type": "node",
-  "id": 8467291871,
-  "lat": 49.1667906,
-  "lon": 16.7329828,
-  "tags": {
-    "amenity": "recycling",
-    "material:metal": "yes",
-    "material:paper": "yes",
-    "material:plastic": "yes",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 8467283295,
   "lat": 49.1693307,
   "lon": 16.7291666,
   "tags": {
     "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 8467295753,
-  "lat": 49.1694617,
-  "lon": 16.7288676,
-  "tags": {
-    "amenity": "recycling",
-    "material:batteries": "yes",
-    "material:electrical_items": "yes",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 8467310428,
-  "lat": 49.1685673,
-  "lon": 16.7310727,
-  "tags": {
-    "amenity": "recycling",
-    "material:green_waste": "yes",
-    "material:paper": "yes",
-    "material:plastic": "yes",
     "recycling_type": "container"
   }
 },
@@ -26280,16 +26242,6 @@
   "id": 2802180659,
   "lat": 49.9918765,
   "lon": 14.4157917,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7199803438,
-  "lat": 49.9921650,
-  "lon": 14.4171969,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -36920,6 +36872,16 @@
   "id": 3782645934,
   "lat": 50.0406305,
   "lon": 14.6120076,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8492558077,
+  "lat": 50.0603907,
+  "lon": 14.6472511,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
