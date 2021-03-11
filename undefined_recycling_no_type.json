@@ -2618,6 +2618,16 @@
 },
 {
   "type": "node",
+  "id": 8503627297,
+  "lat": 49.1666895,
+  "lon": 16.5786892,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Waste collection"
+  }
+},
+{
+  "type": "node",
   "id": 6735509623,
   "lat": 49.1784724,
   "lon": 16.5924082,
@@ -2707,16 +2717,6 @@
   "id": 390362931,
   "lat": 49.1921625,
   "lon": 16.6460354,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 390362932,
-  "lat": 49.1924536,
-  "lon": 16.6439164,
   "tags": {
     "amenity": "recycling",
     "recycling:glass": "yes"
