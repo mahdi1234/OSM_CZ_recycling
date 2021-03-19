@@ -3055,8 +3055,8 @@
 {
   "type": "node",
   "id": 3163774805,
-  "lat": 49.6377417,
-  "lon": 16.2232705,
+  "lat": 49.6373804,
+  "lon": 16.2228634,
   "tags": {
     "amenity": "recycling"
   }
@@ -7782,15 +7782,6 @@
     "amenity": "recycling",
     "recycling:glass": "yes",
     "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3821149989,
-  "lat": 50.1040992,
-  "lon": 14.4888982,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {

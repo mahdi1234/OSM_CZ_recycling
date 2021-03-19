@@ -393,6 +393,17 @@
 },
 {
   "type": "node",
+  "id": 8534269699,
+  "lat": 49.6297234,
+  "lon": 16.2223444,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Recyklace",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
   "id": 457064187,
   "lat": 49.8959447,
   "lon": 16.4418872,
