@@ -6620,8 +6620,8 @@
 {
   "type": "node",
   "id": 2217367129,
-  "lat": 50.0712533,
-  "lon": 14.4551540,
+  "lat": 50.0712355,
+  "lon": 14.4551163,
   "tags": {
     "amenity": "recycling",
     "recycling:cartons": "yes",
