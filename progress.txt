@@ -1,6 +1,6 @@
 Sberna strediska
 225
 Kontejnery
-4212
+4201
 Bez typu
-967
+966
