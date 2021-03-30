@@ -32379,8 +32379,8 @@
 {
   "type": "node",
   "id": 2802049606,
-  "lat": 50.0045380,
-  "lon": 14.4816589,
+  "lat": 50.0045744,
+  "lon": 14.4816206,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -41326,26 +41326,6 @@
   "lon": 16.1351323,
   "tags": {
     "addr:street": "Dobrušská",
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7487632287,
-  "lat": 50.1588626,
-  "lon": 16.2784136,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7487632288,
-  "lat": 50.1585368,
-  "lon": 16.2777531,
-  "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
   }

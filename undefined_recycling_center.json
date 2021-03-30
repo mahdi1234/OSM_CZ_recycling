@@ -676,6 +676,27 @@
 },
 {
   "type": "node",
+  "id": 8572029550,
+  "lat": 50.0863571,
+  "lon": 14.4869053,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "74",
+    "addr:postcode": "13000",
+    "addr:street": "Malešická",
+    "amenity": "recycling",
+    "email": "avepks.provoz@ave.cz",
+    "name": "Sběrný dvůr hl. m. Prahy",
+    "opening_hours": "Oct-Mar: Mo-Fr 08:30-18:00, Sa 08:30-15:00; Apr-Sep: Mo-Fr 08:30-17:00, Sa 08:30-15:00; PH off",
+    "operator": "AVE Pražské komunální služby, a.s.",
+    "operator:type": "public",
+    "phone": "+420 296 339 900",
+    "recycling_type": "centre",
+    "website": "https://www.ave.cz/cs/praha/sberny-dvur-vackov"
+  }
+},
+{
+  "type": "node",
   "id": 310623060,
   "lat": 50.0976655,
   "lon": 14.5039050,
@@ -2901,6 +2922,25 @@
     "amenity": "recycling",
     "recycling_type": "centre",
     "website": "https://www.zlutava.cz/obec-608/odpad-centrum/"
+  }
+},
+{
+  "type": "way",
+  "id": 923288560,
+  "center": {
+    "lat": 49.4181545,
+    "lon": 17.9612224
+  },
+  "nodes": [
+    306470999,
+    8570899022,
+    8570899023,
+    8563458473,
+    306470999
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre"
   }
 },
 {
