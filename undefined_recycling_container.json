@@ -16493,16 +16493,6 @@
 },
 {
   "type": "node",
-  "id": 7674663011,
-  "lat": 49.1694709,
-  "lon": 16.5807266,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 7476476797,
   "lat": 49.1820571,
   "lon": 16.5880023,
