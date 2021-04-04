@@ -4070,6 +4070,27 @@
 },
 {
   "type": "way",
+  "id": 577416630,
+  "center": {
+    "lat": 51.0074285,
+    "lon": 14.4610788
+  },
+  "nodes": [
+    5535487807,
+    5535488528,
+    5535488522,
+    5535488525,
+    5535487807
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "sběrné suroviny",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
   "id": 778013539,
   "center": {
     "lat": 50.1455463,
