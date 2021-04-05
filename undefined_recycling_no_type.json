@@ -6591,19 +6591,6 @@
 },
 {
   "type": "node",
-  "id": 2209021514,
-  "lat": 50.0727400,
-  "lon": 14.4611133,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:cartons": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic_packaging": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 2161935834,
   "lat": 50.0785481,
   "lon": 14.4514758,
@@ -6641,30 +6628,6 @@
     "recycling:glass": "yes",
     "recycling:paper": "yes",
     "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 1388374250,
-  "lat": 50.0730328,
-  "lon": 14.4629595,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic_packaging": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 1388374251,
-  "lat": 50.0741209,
-  "lon": 14.4642385,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic_packaging": "yes"
   }
 },
 {
@@ -9834,6 +9797,27 @@
     "amenity": "recycling",
     "recycling:glass": "yes",
     "recycling:paper": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 926018365,
+  "center": {
+    "lat": 50.3387104,
+    "lon": 13.5510820
+  },
+  "nodes": [
+    8593609721,
+    8593609722,
+    8593609723,
+    8593609724,
+    8593609725,
+    8593609726,
+    8593609727,
+    8593609721
+  ],
+  "tags": {
+    "amenity": "recycling"
   }
 },
 {
