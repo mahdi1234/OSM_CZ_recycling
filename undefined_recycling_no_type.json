@@ -3823,15 +3823,6 @@
 },
 {
   "type": "node",
-  "id": 3105555186,
-  "lat": 49.5832696,
-  "lon": 17.2366314,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 3437787249,
   "lat": 49.5855679,
   "lon": 17.2414558,
@@ -8407,25 +8398,6 @@
   "id": 819010819,
   "lat": 50.7995586,
   "lon": 14.4183174,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2795818884,
-  "lat": 50.9934341,
-  "lon": 14.3313386,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Kontejner na papír a sklo"
-  }
-},
-{
-  "type": "node",
-  "id": 1470660914,
-  "lat": 50.9904777,
-  "lon": 14.3343941,
   "tags": {
     "amenity": "recycling"
   }
