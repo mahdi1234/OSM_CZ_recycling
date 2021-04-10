@@ -8507,28 +8507,6 @@
 },
 {
   "type": "node",
-  "id": 301804254,
-  "lat": 49.9940134,
-  "lon": 15.7960830,
-  "tags": {
-    "amenity": "recycling",
-    "created_by": "Potlatch 0.10c"
-  }
-},
-{
-  "type": "node",
-  "id": 2383729551,
-  "lat": 50.0102640,
-  "lon": 15.7964144,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:clothes": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 2188649200,
   "lat": 50.0262440,
   "lon": 15.7998570,
