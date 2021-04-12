@@ -2193,33 +2193,6 @@
 },
 {
   "type": "node",
-  "id": 2525980348,
-  "lat": 49.6126144,
-  "lon": 15.8266094,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 5994233300,
-  "lat": 49.6055500,
-  "lon": 15.9216140,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 5994233396,
-  "lat": 49.6155310,
-  "lon": 15.8669360,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 3733763776,
   "lat": 49.8157521,
   "lon": 15.5354816,
@@ -2932,28 +2905,6 @@
 },
 {
   "type": "node",
-  "id": 249507311,
-  "lat": 49.5492238,
-  "lon": 15.9456571,
-  "tags": {
-    "amenity": "recycling",
-    "created_by": "JOSM",
-    "note": "sběrný dvůr"
-  }
-},
-{
-  "type": "node",
-  "id": 367678467,
-  "lat": 49.5522534,
-  "lon": 15.9479360,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Kovošrot",
-    "recycling:scrap_metal": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 1663154395,
   "lat": 49.5822165,
   "lon": 15.9650194,
@@ -2969,18 +2920,6 @@
   "id": 1663154353,
   "lat": 49.5819623,
   "lon": 16.0015243,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 2686983245,
-  "lat": 49.6297594,
-  "lon": 16.1161443,
   "tags": {
     "amenity": "recycling",
     "recycling:glass": "yes",
@@ -3023,24 +2962,6 @@
     "amenity": "recycling",
     "recycling:glass": "yes",
     "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3163774005,
-  "lat": 49.6299286,
-  "lon": 16.2190006,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3163774805,
-  "lat": 49.6373804,
-  "lon": 16.2228634,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {
@@ -4948,18 +4869,6 @@
   "tags": {
     "amenity": "recycling",
     "location": "underground"
-  }
-},
-{
-  "type": "node",
-  "id": 1186400745,
-  "lat": 50.5335723,
-  "lon": 14.1233065,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:cans": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
   }
 },
 {
@@ -9378,24 +9287,6 @@
     3935708115,
     3935708116,
     3846262475
-  ],
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "way",
-  "id": 345550750,
-  "center": {
-    "lat": 49.7098374,
-    "lon": 16.0332952
-  },
-  "nodes": [
-    3521940519,
-    3521940518,
-    3521940517,
-    3521940516,
-    3521940519
   ],
   "tags": {
     "amenity": "recycling"

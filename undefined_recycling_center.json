@@ -383,12 +383,25 @@
 },
 {
   "type": "node",
+  "id": 249507311,
+  "lat": 49.5492238,
+  "lon": 15.9456571,
+  "tags": {
+    "amenity": "recycling",
+    "note": "sběrný dvůr",
+    "recycling_type": "centre",
+    "website": "https://www.ave.cz/cs/kraj-vysocina/provozovna-zdar-nad-sazavou"
+  }
+},
+{
+  "type": "node",
   "id": 4901270972,
   "lat": 49.6465580,
   "lon": 16.1237884,
   "tags": {
     "amenity": "recycling",
-    "recycling_type": "centre"
+    "recycling_type": "centre",
+    "website": "https://www.snezne.cz/sberny-dvur/ds-1044"
   }
 },
 {
@@ -2486,6 +2499,26 @@
     "landuse": "industrial",
     "name": "Sběrný dvůr Lhota Rapotina",
     "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
+  "id": 345550750,
+  "center": {
+    "lat": 49.7098374,
+    "lon": 16.0332952
+  },
+  "nodes": [
+    3521940519,
+    3521940518,
+    3521940517,
+    3521940516,
+    3521940519
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "website": "http://www.svratka.cz/sberny-dvur-ve-svratce/"
   }
 },
 {
