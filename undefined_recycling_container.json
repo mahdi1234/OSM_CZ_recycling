@@ -13973,16 +13973,6 @@
 },
 {
   "type": "node",
-  "id": 6718691934,
-  "lat": 49.3392652,
-  "lon": 15.9036055,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 6710486252,
   "lat": 49.3296887,
   "lon": 15.9189388,
@@ -22480,6 +22470,16 @@
 },
 {
   "type": "node",
+  "id": 8634364300,
+  "lat": 49.3394242,
+  "lon": 17.9782203,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 8448242005,
   "lat": 49.4154265,
   "lon": 17.9401528,
@@ -28624,17 +28624,6 @@
   "lon": 14.3151034,
   "tags": {
     "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 4432753484,
-  "lat": 50.0922983,
-  "lon": 14.3288292,
-  "tags": {
-    "amenity": "recycling",
-    "email": "glorion@re-max.cz; info@glorion.eu",
     "recycling_type": "container"
   }
 },
@@ -36973,6 +36962,16 @@
 },
 {
   "type": "node",
+  "id": 8635035140,
+  "lat": 50.1491576,
+  "lon": 14.5263794,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 7948597945,
   "lat": 50.1469584,
   "lon": 14.5310560,
@@ -39347,26 +39346,6 @@
   "id": 5571440924,
   "lat": 50.0095404,
   "lon": 15.2100572,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 5914592520,
-  "lat": 50.0206908,
-  "lon": 15.2069225,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 5914592519,
-  "lat": 50.0220841,
-  "lon": 15.2112793,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"

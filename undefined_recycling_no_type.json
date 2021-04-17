@@ -5574,21 +5574,6 @@
 },
 {
   "type": "node",
-  "id": 360910078,
-  "lat": 50.0838164,
-  "lon": 14.3150902,
-  "tags": {
-    "amenity": "recycling",
-    "email": "glorion@re-max.cz; info@glorion.eu",
-    "recycling:beverage_cartons": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes",
-    "source": "norc.cz"
-  }
-},
-{
-  "type": "node",
   "id": 7305762317,
   "lat": 50.0812643,
   "lon": 14.3174546,
@@ -5729,16 +5714,6 @@
   "lon": 14.3020042,
   "tags": {
     "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 1942683880,
-  "lat": 50.0882932,
-  "lon": 14.3068571,
-  "tags": {
-    "amenity": "recycling",
-    "email": "glorion@re-max.cz; info@glorion.eu"
   }
 },
 {
