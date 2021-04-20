@@ -7152,8 +7152,10 @@
   "lon": 14.4490644,
   "tags": {
     "amenity": "recycling",
+    "recycling:cans": "yes",
     "recycling:glass": "yes",
-    "recycling:paper": "yes"
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes"
   }
 },
 {
