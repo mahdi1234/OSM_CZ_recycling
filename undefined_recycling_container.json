@@ -13187,16 +13187,6 @@
 },
 {
   "type": "node",
-  "id": 5029503321,
-  "lat": 49.3620865,
-  "lon": 15.4932933,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 6987510427,
   "lat": 49.4195718,
   "lon": 15.3155466,
@@ -13409,16 +13399,6 @@
     "amenity": "recycling",
     "recycling_type": "container",
     "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 5024841517,
-  "lat": 49.3825310,
-  "lon": 15.5664416,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
   }
 },
 {
@@ -16248,16 +16228,6 @@
   "id": 7476476797,
   "lat": 49.1820571,
   "lon": 16.5880023,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 6735502129,
-  "lat": 49.1796736,
-  "lon": 16.5950270,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -41282,8 +41252,8 @@
 {
   "type": "node",
   "id": 1714057860,
-  "lat": 50.5725500,
-  "lon": 16.1372096,
+  "lat": 50.5725483,
+  "lon": 16.1372083,
   "tags": {
     "amenity": "recycling",
     "description": "Vedle zdi areálu, venkovní strana.",
