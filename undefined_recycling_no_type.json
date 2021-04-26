@@ -2078,37 +2078,6 @@
 },
 {
   "type": "node",
-  "id": 4117740959,
-  "lat": 49.6038206,
-  "lon": 15.5787446,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:clothes": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3945518721,
-  "lat": 49.6111996,
-  "lon": 15.5746638,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3945518722,
-  "lat": 49.6128197,
-  "lon": 15.5742044,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 261050780,
   "lat": 49.5408235,
   "lon": 15.6605418,
@@ -2134,35 +2103,6 @@
   "lon": 15.6944039,
   "tags": {
     "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4004633245,
-  "lat": 49.6158835,
-  "lon": 15.5769253,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 4004635189,
-  "lat": 49.6163173,
-  "lon": 15.5764314,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 2944782977,
-  "lat": 49.6161342,
-  "lon": 15.5779457,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
   }
 },
 {
@@ -2201,18 +2141,6 @@
     "recycling:cans": "no",
     "recycling:glass": "yes",
     "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 2629081904,
-  "lat": 49.7272213,
-  "lon": 15.7143922,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
   }
 },
 {
@@ -8683,15 +8611,6 @@
 },
 {
   "type": "node",
-  "id": 1395411041,
-  "lat": 49.9897079,
-  "lon": 16.3567453,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 2459841173,
   "lat": 50.2913112,
   "lon": 16.1455382,
@@ -8824,18 +8743,6 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "source": "knowledge"
-  }
-},
-{
-  "type": "node",
-  "id": 926787999,
-  "lat": 49.9286246,
-  "lon": 16.5420844,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
   }
 },
 {
