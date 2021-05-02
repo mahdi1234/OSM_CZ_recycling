@@ -8522,42 +8522,6 @@
 },
 {
   "type": "node",
-  "id": 3896572507,
-  "lat": 49.9489736,
-  "lon": 16.1599855,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3896572508,
-  "lat": 49.9500453,
-  "lon": 16.1600048,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3896387193,
-  "lat": 49.9503809,
-  "lon": 16.1619985,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3896572506,
-  "lat": 49.9492213,
-  "lon": 16.1620643,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 3581541893,
   "lat": 49.9958143,
   "lon": 16.2297222,
