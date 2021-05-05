@@ -972,6 +972,20 @@
 },
 {
   "type": "node",
+  "id": 1249679124,
+  "lat": 50.0452575,
+  "lon": 15.7607928,
+  "tags": {
+    "amenity": "recycling",
+    "name": "separační dvůr Lonkova",
+    "opening_hours": "po, so: 8:00-12:00, út, čt: 14:00-18:00",
+    "operator": "Služby města Pardubice",
+    "recycling_type": "centre",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 7099409116,
   "lat": 50.0705429,
   "lon": 15.7910304,

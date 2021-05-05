@@ -8218,26 +8218,6 @@
 },
 {
   "type": "node",
-  "id": 4432775393,
-  "lat": 50.0333149,
-  "lon": 15.7615717,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3682858507,
-  "lat": 50.0258470,
-  "lon": 15.7752610,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 2188649200,
   "lat": 50.0262440,
   "lon": 15.7998570,
@@ -8245,24 +8225,6 @@
     "amenity": "recycling",
     "name": "SMP Sberny Dvur",
     "note": "Sberny dvur. Vsechny druhy odpadu."
-  }
-},
-{
-  "type": "node",
-  "id": 4126411947,
-  "lat": 50.0338855,
-  "lon": 15.7636500,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 1249679124,
-  "lat": 50.0452575,
-  "lon": 15.7607928,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {
