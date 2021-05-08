@@ -1,6 +1,6 @@
 Sberna strediska
 232
 Kontejnery
-4097
+4096
 Bez typu
 912

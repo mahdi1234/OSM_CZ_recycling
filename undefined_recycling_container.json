@@ -40092,17 +40092,6 @@
 },
 {
   "type": "node",
-  "id": 7993475581,
-  "lat": 50.2417597,
-  "lon": 15.9538822,
-  "tags": {
-    "amenity": "recycling",
-    "location": "overground",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 5805971892,
   "lat": 50.3088118,
   "lon": 16.0316913,
