@@ -5449,26 +5449,6 @@
 },
 {
   "type": "node",
-  "id": 7362904645,
-  "lat": 48.9818652,
-  "lon": 14.4407896,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7362904646,
-  "lat": 48.9825980,
-  "lon": 14.4405848,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 7319264322,
   "lat": 48.9623017,
   "lon": 14.4688224,
@@ -5512,16 +5492,6 @@
   "id": 7362891233,
   "lat": 48.9741099,
   "lon": 14.4567365,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7362891236,
-  "lat": 48.9755957,
-  "lon": 14.4531562,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -5579,29 +5549,9 @@
 },
 {
   "type": "node",
-  "id": 7362904634,
-  "lat": 48.9798806,
-  "lon": 14.4450788,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 7362891238,
   "lat": 48.9844044,
   "lon": 14.4555680,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7362904630,
-  "lat": 48.9804792,
-  "lon": 14.4512834,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -5819,26 +5769,6 @@
 },
 {
   "type": "node",
-  "id": 7362904611,
-  "lat": 48.9872024,
-  "lon": 14.4406040,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7362904612,
-  "lat": 48.9879429,
-  "lon": 14.4410400,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 7362904613,
   "lat": 48.9883454,
   "lon": 14.4392479,
@@ -5902,16 +5832,6 @@
   "id": 7362904619,
   "lat": 48.9877267,
   "lon": 14.4423517,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7362904620,
-  "lat": 48.9867632,
-  "lon": 14.4418420,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
