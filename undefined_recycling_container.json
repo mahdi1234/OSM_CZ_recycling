@@ -41064,6 +41064,63 @@
 },
 {
   "type": "way",
+  "id": 942448497,
+  "center": {
+    "lat": 50.1107870,
+    "lon": 14.6830655
+  },
+  "nodes": [
+    8727144672,
+    8727144673,
+    8727144674,
+    8727144675,
+    8727144672
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "way",
+  "id": 942448560,
+  "center": {
+    "lat": 50.1107721,
+    "lon": 14.6830926
+  },
+  "nodes": [
+    8727145978,
+    8727145979,
+    8727145980,
+    8727145981,
+    8727145978
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "way",
+  "id": 942448599,
+  "center": {
+    "lat": 50.1107518,
+    "lon": 14.6831086
+  },
+  "nodes": [
+    8727130969,
+    8727130970,
+    8727130971,
+    8727130972,
+    8727130969
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "way",
   "id": 717255997,
   "center": {
     "lat": 50.0480137,
