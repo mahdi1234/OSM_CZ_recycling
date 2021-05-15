@@ -3074,15 +3074,6 @@
 },
 {
   "type": "node",
-  "id": 5105844893,
-  "lat": 49.2288146,
-  "lon": 16.8755678,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 4415976385,
   "lat": 49.1132392,
   "lon": 17.1726614,
@@ -8563,15 +8554,6 @@
     "recycling:paper": "yes",
     "recycling:plastic": "yes",
     "source": "knowledge"
-  }
-},
-{
-  "type": "node",
-  "id": 1239827685,
-  "lat": 50.0223209,
-  "lon": 16.5222269,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {
