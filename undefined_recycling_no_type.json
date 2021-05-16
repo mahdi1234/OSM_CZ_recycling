@@ -439,16 +439,6 @@
 },
 {
   "type": "node",
-  "id": 2371991043,
-  "lat": 48.9769757,
-  "lon": 14.3606560,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 3790090919,
   "lat": 48.9752333,
   "lon": 14.3593571,
@@ -2065,16 +2055,6 @@
   "lon": 15.2711713,
   "tags": {
     "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 261050780,
-  "lat": 49.5408235,
-  "lon": 15.6605418,
-  "tags": {
-    "amenity": "recycling",
-    "created_by": "JOSM"
   }
 },
 {
