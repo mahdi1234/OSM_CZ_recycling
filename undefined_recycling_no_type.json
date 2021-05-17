@@ -1770,18 +1770,6 @@
 },
 {
   "type": "node",
-  "id": 2638958274,
-  "lat": 49.2828038,
-  "lon": 15.4407971,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 3079904096,
   "lat": 49.2932658,
   "lon": 15.4858806,
