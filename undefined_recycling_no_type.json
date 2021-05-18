@@ -1897,16 +1897,6 @@
 },
 {
   "type": "node",
-  "id": 1270599631,
-  "lat": 49.2188985,
-  "lon": 15.8724892,
-  "tags": {
-    "amenity": "recycling",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
   "id": 4415222830,
   "lat": 49.2181010,
   "lon": 15.8674520,
@@ -1916,17 +1906,6 @@
     "recycling:electronics": "yes",
     "recycling:glass": "yes",
     "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4415271927,
-  "lat": 49.2202303,
-  "lon": 15.8691234,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
     "recycling:plastic": "yes"
   }
 },
