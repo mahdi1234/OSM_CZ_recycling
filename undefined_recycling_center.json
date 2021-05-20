@@ -2268,6 +2268,36 @@
 },
 {
   "type": "way",
+  "id": 944911417,
+  "center": {
+    "lat": 49.8734809,
+    "lon": 15.5680173
+  },
+  "nodes": [
+    8747896974,
+    8747896975,
+    8747896989,
+    8747896976,
+    8747896977,
+    8747896978,
+    5335519273,
+    8747896979,
+    8747896980,
+    8747896981,
+    2722765974,
+    8747896974
+  ],
+  "tags": {
+    "addr:city": "Třemošnice",
+    "addr:postcode": "53843",
+    "addr:street": "U Vápenky",
+    "amenity": "recycling",
+    "name": "Recycling - kovové odpady a. s.",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "way",
   "id": 719264701,
   "center": {
     "lat": 49.8673091,
