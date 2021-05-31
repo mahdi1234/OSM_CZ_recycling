@@ -772,6 +772,19 @@
 },
 {
   "type": "node",
+  "id": 8780725912,
+  "lat": 50.1156445,
+  "lon": 14.6101490,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr – Horní Počernice",
+    "operator": "Odbor místního hospodářství ÚMČ Praha 20",
+    "operator:type": "local_authority",
+    "recycling_type": "centre"
+  }
+},
+{
+  "type": "node",
   "id": 1392328705,
   "lat": 50.1796673,
   "lon": 14.4082002,
@@ -1056,17 +1069,6 @@
   "id": 621912728,
   "lat": 50.7429564,
   "lon": 15.3098061,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Sběrný dvůr",
-    "recycling_type": "centre"
-  }
-},
-{
-  "type": "node",
-  "id": 4700587164,
-  "lat": 50.0958002,
-  "lon": 16.4397314,
   "tags": {
     "amenity": "recycling",
     "name": "Sběrný dvůr",
