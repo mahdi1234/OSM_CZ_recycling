@@ -4613,10 +4613,14 @@
 {
   "type": "node",
   "id": 1285287406,
-  "lat": 49.9595606,
-  "lon": 14.3270102,
+  "lat": 49.9596218,
+  "lon": 14.3269272,
   "tags": {
-    "amenity": "recycling"
+    "amenity": "recycling",
+    "recycling:clothes": "yes",
+    "recycling:metal": "yes",
+    "recycling:paper": "yes",
+    "recycling:plastic": "yes"
   }
 },
 {
