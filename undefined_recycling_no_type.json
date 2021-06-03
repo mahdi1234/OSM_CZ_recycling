@@ -5609,28 +5609,6 @@
 },
 {
   "type": "node",
-  "id": 1215020441,
-  "lat": 50.0596344,
-  "lon": 14.3818075,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 1215020465,
-  "lat": 50.0589728,
-  "lon": 14.3811247,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 1248039646,
   "lat": 50.0435208,
   "lon": 14.3974831,
@@ -5733,15 +5711,6 @@
   "id": 5600449449,
   "lat": 50.0718544,
   "lon": 14.3723264,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3673854564,
-  "lat": 50.0603081,
-  "lon": 14.3840532,
   "tags": {
     "amenity": "recycling"
   }
