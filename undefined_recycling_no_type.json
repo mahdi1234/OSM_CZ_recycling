@@ -1181,15 +1181,6 @@
 },
 {
   "type": "node",
-  "id": 4433345313,
-  "lat": 49.7780839,
-  "lon": 14.6762909,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 4012183049,
   "lat": 49.8027518,
   "lon": 14.6630593,
@@ -1382,15 +1373,6 @@
 },
 {
   "type": "node",
-  "id": 4433345315,
-  "lat": 49.7821665,
-  "lon": 14.6837051,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 4433345316,
   "lat": 49.7837927,
   "lon": 14.6830226,
@@ -1405,19 +1387,6 @@
   "lon": 14.6873009,
   "tags": {
     "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 3467376306,
-  "lat": 49.7930644,
-  "lon": 14.6896469,
-  "tags": {
-    "amenity": "recycling",
-    "name": "Tříděný odpad",
-    "recycling:clothes": "no",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes"
   }
 },
 {
