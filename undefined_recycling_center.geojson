@@ -1,0 +1,4205 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/4712689",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr Hlavního města Prahy",
+    "recycling_type": "centre",
+    "id": "way/4712689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4369359,
+      50.0043106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48924397",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/48924397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1640998,
+      49.7784506
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/54147749",
+  "properties": {
+    "amenity": "recycling",
+    "building": "house",
+    "building:flats": "1",
+    "building:ruian:type": "7",
+    "email": "info@valtice.eu",
+    "name": "Sběrný dvůr Valtice",
+    "phone": "+420 733 535 812",
+    "recycling_type": "centre",
+    "ref:ruian:building": "50752618",
+    "source": "cuzk:ruian",
+    "website": "https://www.valtice.eu/",
+    "id": "way/54147749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.7514239,
+      48.7476923
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/55663113",
+  "properties": {
+    "amenity": "recycling",
+    "building": "yes",
+    "name": "Sběrný dvůr",
+    "name:cs": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km",
+    "id": "way/55663113"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5373635,
+      49.30161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/55919440",
+  "properties": {
+    "amenity": "recycling",
+    "building": "yes",
+    "building:levels": "1",
+    "building:ruian:type": "19",
+    "recycling_type": "centre",
+    "ref:ruian:building": "78997259",
+    "source": "cuzk:ruian",
+    "start_date": "2010-09-29",
+    "id": "way/55919440"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5160366,
+      49.5029325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/79798613",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Nehlsen Třinec",
+    "recycling_type": "centre",
+    "source": "https://www.nehlsen.com/unternehmen/referenzen/reinigung/100-prozent-nehlsen-trinec",
+    "id": "way/79798613"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.6518746,
+      49.6638238
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/79800592",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "recycling_type": "centre",
+    "id": "way/79800592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.0424917,
+      50.3885371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/79870202",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/79870202"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.9952857,
+      49.9632082
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/99865211",
+  "properties": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km",
+    "id": "way/99865211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.0128514,
+      49.6913636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/106493144",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "website": "https://www.zlutava.cz/obec-608/odpad-centrum/",
+    "id": "way/106493144"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.4828762,
+      49.2012645
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/117460318",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr hl.m. Prahy",
+    "recycling_type": "centre",
+    "id": "node/117460318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4514659,
+      50.0189356
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/124240683",
+  "properties": {
+    "amenity": "recycling",
+    "building": "yes",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Mo 08:00-12:00, 14:00-18:00, Tu 14:00-18:00; We 08:00-12:00, 14:00-18:00, Th Closed, Fr 14:00-18:00, Sa 08:00-12:00, Su Closed",
+    "operator": "Město Vimperk",
+    "recycling_type": "centre",
+    "roof:colour": "gray",
+    "roof:shape": "flat",
+    "source": "cuzk:km",
+    "id": "way/124240683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7849612,
+      49.056996
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/136315292",
+  "properties": {
+    "amenity": "recycling",
+    "building": "yes",
+    "building:ruian:type": "19",
+    "recycling_type": "centre",
+    "ref:ruian:building": "38804158",
+    "source": "cuzk:ruian",
+    "id": "way/136315292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5712645,
+      49.1008336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/143546276",
+  "properties": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km",
+    "id": "way/143546276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0931805,
+      49.4677679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/145483465",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/145483465"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0952531,
+      49.4529826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/156482633",
+  "properties": {
+    "addr:housenumber": "28",
+    "addr:street": "Krejčířova",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Rousínov",
+    "opening_hours": "Mo 13:00-18:00; We 13:00-18:00; St 08:00-12:00",
+    "operator": "RESPONO a.s.",
+    "phone": "+420 732 454 800",
+    "recycling_type": "centre",
+    "source": "aerial imagery;local knowledge",
+    "website": "https://www.respono.cz/pro-obcany/sberne-dvory/",
+    "id": "way/156482633"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.8844948,
+      49.1939921
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/172203710",
+  "properties": {
+    "amenity": "recycling",
+    "building:ruian:type": "12",
+    "name": "Rumpold",
+    "recycling_type": "centre",
+    "ref:ruian:building": "45266841",
+    "source": "cuzk:ruian",
+    "id": "way/172203710"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7144159,
+      49.7828797
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/201011153",
+  "properties": {
+    "addr:city": "Vimperk",
+    "addr:postcode": "38501",
+    "addr:street": "Špidrova",
+    "amenity": "recycling",
+    "building": "yes",
+    "building:ruian:type": "19",
+    "contact:phone": "730 963 344",
+    "contact:website": "https://www.sbernesuroviny.cz/",
+    "name": "Sběrné suroviny",
+    "opening_hours": "Mo-Fr 07:30-11:30, 12:00-16:00; PH off",
+    "operator": "Sběrné suroviny, a.s.",
+    "operator:type": "private",
+    "recycling_type": "centre",
+    "ref:ruian:building": "47491698",
+    "source": "cuzk:ruian",
+    "id": "way/201011153"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7993395,
+      49.0535194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205342892",
+  "properties": {
+    "amenity": "recycling",
+    "name": "ČOV Vyškov",
+    "recycling_type": "centre",
+    "id": "way/205342892"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.01858,
+      49.2801182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/216507230",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/216507230"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.9179251,
+      49.2637102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/231362507",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "survey",
+    "id": "way/231362507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1467576,
+      50.1628701
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/249507311",
+  "properties": {
+    "amenity": "recycling",
+    "note": "sběrný dvůr",
+    "recycling_type": "centre",
+    "website": "https://www.ave.cz/cs/kraj-vysocina/provozovna-zdar-nad-sazavou",
+    "id": "node/249507311"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.9456571,
+      49.5492238
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256273305",
+  "properties": {
+    "building": "yes",
+    "recycling_type": "centre",
+    "source": "cuzk:km",
+    "id": "way/256273305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.2605594,
+      50.1499177
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/266890774",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/266890774"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.1325961,
+      49.8420542
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/277964775",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "recycling_type": "centre",
+    "id": "way/277964775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4484144,
+      50.1349553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/280974731",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Skládka odpadu - Hrádek",
+    "recycling_type": "centre",
+    "id": "way/280974731"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0368077,
+      49.4906675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/296061483",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/296061483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.6521677,
+      49.995864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/298071704",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/298071704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.9399527,
+      50.4836504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307023663",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/307023663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5910189,
+      50.0396418
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/310623060",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr hlavního města Prahy",
+    "operator": "Pražské služby",
+    "recycling_type": "centre",
+    "id": "node/310623060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.503905,
+      50.0976655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/310648892",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/310648892"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4049724,
+      49.9956203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/310648895",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrné suroviny",
+    "name:en": "Scrap yard",
+    "recycling_type": "centre",
+    "source": "craftak",
+    "id": "way/310648895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4059254,
+      49.9946101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314068832",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "landfill",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu 14:30-16:30; Th 14:30-16:30; Sa 10:00-12:00; Su 13:00-15:00",
+    "operator": "Město Buštěhrad",
+    "recycling_type": "centre",
+    "source": "survey",
+    "id": "way/314068832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1774787,
+      50.1514454
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/315529200",
+  "properties": {
+    "access": "private",
+    "addr:city": "Vimperk",
+    "addr:country": "CZ",
+    "addr:housenumber": "128",
+    "addr:postcode": "38501",
+    "addr:street": "Špidrova",
+    "amenity": "recycling",
+    "building": "yes",
+    "contact:website": "https://jihosepar.cz/",
+    "name": "Jihosepar a.s.",
+    "opening_hours": "Mo-Fr 08:00-14:30; PH off",
+    "recycling_type": "centre",
+    "id": "way/315529200"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7989016,
+      49.0515981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/324784511",
+  "properties": {
+    "amenity": "recycling",
+    "email": "suroviny@mtr.cz",
+    "name": "SUROVINY PAVEL SMÉKAL, s.r.o.",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+    "phone": "461 31 24 79",
+    "recycling_type": "centre",
+    "website": "http://www.surovinysmekal.cz/",
+    "id": "way/324784511"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6700208,
+      49.7616185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/329705861",
+  "properties": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr Mlazice",
+    "recycling_type": "centre",
+    "id": "way/329705861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4696907,
+      50.3686813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/337883838",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre",
+    "source": "survey; Bing",
+    "id": "way/337883838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.6817342,
+      49.311484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/342144448",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source": "Bing",
+    "id": "way/342144448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.2996142,
+      49.7066281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/345550750",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "website": "http://www.svratka.cz/sberny-dvur-ve-svratce/",
+    "id": "way/345550750"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.0332952,
+      49.7098374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/352296122",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu,Th 10:00-15:00; We 11:00-18:00; Fr 12:00-18:00; Sa 09:00-12:00,14:00-17:00",
+    "operator": "Technické služby Čelákovice příspěvková organizace",
+    "recycling_type": "centre",
+    "website": "http://ts.celakovice-mesto.cz/sd_provoz.php",
+    "id": "way/352296122"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.7580648,
+      50.1605899
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356831061",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/356831061"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.7952734,
+      49.9400508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/361332499",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "recycling_type": "centre",
+    "source": "survey; GPS track",
+    "id": "way/361332499"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.0289278,
+      49.6065837
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366653861",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/366653861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3714718,
+      50.0590844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/367426126",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/367426126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.4970833,
+      49.1374249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368922798",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/368922798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.6367704,
+      49.9222817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/370043034",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "wall",
+    "recycling_type": "centre",
+    "id": "way/370043034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5472748,
+      49.0782967
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/371733342",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Hlavního města Prahy",
+    "opening_hours": "Mo-Fr 08:30-17:00; Sa 08:30-15:00",
+    "phone": "+420 736 518 204",
+    "recycling_type": "centre",
+    "website": "https://www.komwag.cz/odpady/sberny-dvur-hl-m-prahy",
+    "id": "way/371733342"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3748928,
+      50.0973142
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/374237791",
+  "properties": {
+    "amenity": "recycling",
+    "building": "yes",
+    "building:ruian:type": "19",
+    "recycling_type": "centre",
+    "ref:ruian:building": "24550957",
+    "source": "cuzk:ruian",
+    "id": "way/374237791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5143552,
+      49.9419578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385300995",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/385300995"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.7745527,
+      49.6359381
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/396521236",
+  "properties": {
+    "amenity": "recycling",
+    "email": "skladka@bytiz.cz",
+    "name": "Recyklacni centrum Bytiz",
+    "opening_hours": "Mo-Sa 07:00-15:00",
+    "phone": "+420312312762",
+    "recycling_type": "centre",
+    "id": "way/396521236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.059043,
+      49.6840917
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/400008806",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source": "survey",
+    "id": "way/400008806"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3428111,
+      49.7442444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/400008807",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source": "cuzk:km;survey",
+    "id": "way/400008807"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3784773,
+      49.7234846
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/414080901",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/414080901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6124636,
+      49.3117221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/422038957",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/422038957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5277445,
+      48.9705361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/431692192",
+  "properties": {
+    "amenity": "recycling",
+    "contact:website": "http://www.smkraliky.cz/dvur.html",
+    "description": "Příchod do areálu sběrných dvorů hlaste v kanceláři!",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Mo-Th 06:00-14:30; Apr-Oct Fr 06:00-17:00; Nov-Mar Fr 06:00-16:00; Apr-Oct Sa 08:00-12:00; Nov-Mar Sa off; Su,PH off",
+    "operator": "Služby města Králíky",
+    "recycling_type": "centre",
+    "id": "way/431692192"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.7623861,
+      50.0815584
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/435711881",
+  "properties": {
+    "amenity": "recycling",
+    "operator": "Megašrot",
+    "recycling_type": "centre",
+    "id": "way/435711881"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5780698,
+      50.041785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/448688046",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr pro recyklaci stavební suti",
+    "recycling_type": "centre",
+    "source": "survey",
+    "id": "node/448688046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.4446076,
+      49.260461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/457064185",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Tu-Fr 08:00-17:00; Sa 08:00-12:00",
+    "recycling_type": "centre",
+    "wheelchair": "no",
+    "id": "node/457064185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.4524187,
+      49.8922954
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/457064187",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Ekoline group",
+    "recycling_type": "centre",
+    "id": "node/457064187"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.4418872,
+      49.8959447
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/490100163",
+  "properties": {
+    "amenity": "recycling",
+    "name": "kompostárna",
+    "recycling_type": "centre",
+    "id": "way/490100163"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7498227,
+      49.7853767
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/490154302",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Dolní Bojanovice",
+    "recycling_type": "centre",
+    "id": "way/490154302"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0375827,
+      48.8589911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/497478781",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/497478781"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7407864,
+      49.7868315
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/499670972",
+  "properties": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/499670972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.1311187,
+      49.4749921
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/499670974",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "wall",
+    "name": "výkup kovů HOPR",
+    "operator": "HOPR .cz Zábřeh",
+    "recycling_type": "centre",
+    "id": "way/499670974"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.1314741,
+      49.4746116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/499671920",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/499671920"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.1308285,
+      49.4735196
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/502843663",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/502843663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.9074645,
+      48.9616113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/506554709",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/506554709"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.1191843,
+      50.3818516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/507670463",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Sběrný dvůt",
+    "operator": "OZO",
+    "recycling_type": "centre",
+    "id": "way/507670463"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.1989394,
+      49.7566934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/519097568",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km;územní plán",
+    "id": "way/519097568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3856613,
+      50.5263216
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/525387207",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "wall",
+    "recycling_type": "centre",
+    "id": "way/525387207"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.8884928,
+      48.9155883
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/537803343",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source": "survey",
+    "id": "way/537803343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3523025,
+      49.7770245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/541907333",
+  "properties": {
+    "amenity": "recycling",
+    "building:levels": "1",
+    "building:ruian:type": "13",
+    "recycling_type": "centre",
+    "ref:ruian:building": "81207689",
+    "source": "cuzk:ruian",
+    "id": "way/541907333"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.7028494,
+      48.8540001
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/541930858",
+  "properties": {
+    "addr:city": "Horní Suchá",
+    "addr:postcode": "73535",
+    "addr:street": "Chrost",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Horní Suchá",
+    "operator": "Depos",
+    "recycling_type": "centre",
+    "id": "way/541930858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.489916,
+      49.7984338
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/547137374",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr",
+    "operator": "OZO!!!",
+    "recycling_type": "centre",
+    "id": "way/547137374"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.2487932,
+      49.8339244
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/548846665",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "source:amenity": "survey",
+    "id": "way/548846665"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5525146,
+      49.0624983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/557277767",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sbětný dvůr Planá",
+    "recycling_type": "centre",
+    "id": "way/557277767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.7342852,
+      49.8716005
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/557361025",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Sa 08:00-12:00",
+    "operator": "Obec Růžová",
+    "recycling_type": "centre",
+    "id": "way/557361025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2954628,
+      50.8450347
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/560761708",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/560761708"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1631773,
+      49.31375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/566715423",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "recycling_type": "centre",
+    "id": "way/566715423"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5537041,
+      50.2673927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/574531306",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/574531306"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.0520618,
+      49.3664656
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/577416630",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "sběrné suroviny",
+    "recycling_type": "centre",
+    "id": "way/577416630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4610788,
+      51.0074285
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/579599610",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre",
+    "id": "way/579599610"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.14069,
+      49.3172098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/586960710",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "website": "https://www.tsceskybrod.cz/sberny-dvur",
+    "id": "way/586960710"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.8857469,
+      50.0809135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/610763012",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Recyklační centrum, sběrný dvůr odpadů obce Ostopovice",
+    "operator": "Obec Ostopovice",
+    "recycling_type": "centre",
+    "id": "way/610763012"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5456885,
+      49.1646955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/616388436",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr Lhota Rapotina",
+    "recycling_type": "centre",
+    "id": "way/616388436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6221904,
+      49.4658166
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/621912728",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/621912728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3098061,
+      50.7429564
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/627608470",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "landuse": "industrial",
+    "recycling_type": "centre",
+    "id": "way/627608470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.2179452,
+      49.6987314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/637804068",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/637804068"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.2285695,
+      49.4308981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/641161226",
+  "properties": {
+    "amenity": "recycling",
+    "area": "yes",
+    "barrier": "wall",
+    "highway": "service",
+    "note": "position approx.",
+    "operator:cs": "obec Bašt",
+    "recycling_type": "centre",
+    "id": "way/641161226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4726522,
+      50.2128662
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/644780584",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Myslivna",
+    "opening_hours": "Sa[1] 08:00-11:00",
+    "recycling_type": "centre",
+    "website": "https://www.chyne.cz/obecniurad/odpady/1276-nakladani-s-odpady",
+    "id": "way/644780584"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2246882,
+      50.0585471
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/655052814",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre",
+    "id": "way/655052814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4508576,
+      48.9871116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/655052816",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre",
+    "id": "way/655052816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4401419,
+      48.9723159
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/668632129",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/668632129"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5468627,
+      49.3380972
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/669191758",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/669191758"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5016773,
+      50.0325415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/670399688",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/670399688"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1126014,
+      50.1633899
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/670399689",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/670399689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.113027,
+      50.1619675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/674624143",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-13:00",
+    "operator": "FCC Česká republika s. r. o.",
+    "recycling_type": "centre",
+    "id": "way/674624143"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.8450613,
+      50.2110629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/675549561",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "recycling_type": "centre",
+    "id": "way/675549561"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.2492727,
+      49.3500861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/683090040",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/683090040"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.4799944,
+      49.7560913
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/689299362",
+  "properties": {
+    "amenity": "recycling",
+    "operator": "Obec Býšť",
+    "recycling_type": "centre",
+    "id": "way/689299362"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.9065281,
+      50.1155264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/700781970",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/700781970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2460126,
+      50.0394435
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/701440919",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/701440919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.7081889,
+      49.3505561
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/710675855",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/710675855"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1410847,
+      49.3179246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/719264701",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/719264701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.5816112,
+      49.8672928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/739670066",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Mo 14:00-18:00; Th 14:00-18:00; Sa 09:00-14:00",
+    "recycling_type": "centre",
+    "id": "way/739670066"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.731041,
+      49.1364372
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/755334242",
+  "properties": {
+    "addr:city": "Český Krumlov",
+    "addr:postcode": "38101",
+    "addr:street": "Kaplická",
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/755334242"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3330814,
+      48.8103253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/760804032",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/760804032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.1709973,
+      50.4674559
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/762608616",
+  "properties": {
+    "addr:city": "Větřní",
+    "addr:street": "Šumavská",
+    "amenity": "recycling",
+    "description": "Listopad-Březen: v pracovní dny otevřeno do 17:00",
+    "name": "Sběrný dvůr Větřní",
+    "opening_hours": "Mo 14-19; We 14-19; Fr 11-19; Sa 08-16",
+    "operator": "KAPEX s.r.o",
+    "operator:type": "public",
+    "phone": "+420775563381",
+    "recycling_type": "centre",
+    "id": "way/762608616"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2929711,
+      48.7781712
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/775545824",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "recycling_type": "centre",
+    "id": "way/775545824"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.7083651,
+      48.958936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/778013539",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/778013539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.1293421,
+      50.1455463
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/782065347",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Fr 16:00-17:00; Sa 10:00-11:30",
+    "operator": "Technické služby Čelákovice příspěvková organizace",
+    "recycling_type": "centre",
+    "website": "http://ts.celakovice-mesto.cz/sd_provoz.php",
+    "id": "way/782065347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.7839853,
+      50.1661359
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/783706462",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Výkupna surovin Záběhlice",
+    "recycling_type": "centre",
+    "website": "https://kovo-group.cz/#chodovska",
+    "id": "way/783706462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4765967,
+      50.0536793
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/792680946",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/792680946"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.9276589,
+      48.7779027
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/793751444",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Kovošrot",
+    "recycling_type": "centre",
+    "id": "way/793751444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4872227,
+      48.7447501
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/793773152",
+  "properties": {
+    "amenity": "recycling",
+    "area": "yes",
+    "name": "Sběrný dvůr",
+    "opening_hours": "We 15:00-18:00, Su 9:00-12:00",
+    "operator": "Městys Ševětín",
+    "recycling_type": "centre",
+    "id": "way/793773152"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5710156,
+      49.1007003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/795483410",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/795483410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4863904,
+      48.7452938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/799398551",
+  "properties": {
+    "amenity": "recycling",
+    "landuse": "industrial",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/799398551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.0852154,
+      49.9463325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/802202890",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/802202890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.4616946,
+      48.9764986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/804282366",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/804282366"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3654849,
+      49.9874395
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/804944653",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Pražské služby",
+    "recycling_type": "centre",
+    "id": "way/804944653"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4631359,
+      50.0655477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/810142955",
+  "properties": {
+    "amenity": "recycling",
+    "barrier": "fence",
+    "fence_type": "concrete",
+    "height": "2",
+    "recycling_type": "centre",
+    "id": "way/810142955"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.4413304,
+      49.4088589
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/819010820",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/819010820"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4063296,
+      50.7993159
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/819699422",
+  "properties": {
+    "amenity": "recycling",
+    "name": "ECOWOOD Unhošť",
+    "opening_hours": "Mo-Fr 08:00-15:00; Sa 09:00-11:30",
+    "recycling_type": "centre",
+    "website": "http://www.ecowood.cz/",
+    "id": "way/819699422"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1562608,
+      50.0913171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/822491779",
+  "properties": {
+    "addr:conscriptionnumber": "465",
+    "addr:country": "CZ",
+    "addr:housenumber": "465",
+    "addr:place": "Ronov nad Doubravou",
+    "addr:postcode": "53842",
+    "addr:street": "Svatokřížská",
+    "amenity": "recycling",
+    "name": "Kovošrot Culka & Sadlik s.r.o.",
+    "recycling_type": "centre",
+    "ref:ruian:addr": "5280371",
+    "id": "node/822491779"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.53238,
+      49.8845863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/844193050",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/844193050"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.6470197,
+      50.1873346
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/845383235",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/845383235"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.7720124,
+      48.9109695
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/845815242",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/845815242"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1372197,
+      50.4599234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/849562172",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/849562172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.8036119,
+      50.0873565
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/853247651",
+  "properties": {
+    "addr:city": "Praha",
+    "addr:housenumber": "5",
+    "addr:postcode": "10800",
+    "addr:street": "Teplárenská",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr hlavního města",
+    "recycling_type": "centre",
+    "id": "way/853247651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.532235,
+      50.0850333
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/856312566",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/856312566"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4942217,
+      50.0690328
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/862145319",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/862145319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.5322153,
+      49.884986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/862192227",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Kompostárna",
+    "recycling_type": "centre",
+    "id": "way/862192227"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.372981,
+      50.046965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/862781060",
+  "properties": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/862781060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0712285,
+      49.4318078
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/862876863",
+  "properties": {
+    "amenity": "recycling",
+    "name": "sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/862876863"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.0462663,
+      49.4727328
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/863256435",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/863256435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5002383,
+      48.9798805
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/867057852",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "way/867057852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5377687,
+      50.6659738
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/869079911",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/869079911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3820508,
+      49.8917946
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/877933777",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/877933777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4040259,
+      49.7557644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/879130809",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/879130809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.726544,
+      49.1172873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/880534099",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/880534099"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.6631339,
+      50.1302788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/883965605",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/883965605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4005027,
+      49.8131969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/891363357",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/891363357"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.3551393,
+      49.9828371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/891869695",
+  "properties": {
+    "addr:city": "Brandýs nad Labem-Stará Boleslav",
+    "addr:housenumber": "2345",
+    "addr:postcode": "25001",
+    "addr:street": "Strojírenská",
+    "amenity": "recycling",
+    "building": "industrial",
+    "name": "AVE CZ",
+    "operator": "AVE CZ",
+    "recycling_type": "centre",
+    "id": "way/891869695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.6586429,
+      50.1789652
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/915512714",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/915512714"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6451593,
+      49.0575404
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/923288560",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/923288560"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.9612157,
+      49.4181406
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/926317615",
+  "properties": {
+    "addr:city": "Seč",
+    "addr:housenumber": "1",
+    "addr:street": "Chrudimská",
+    "amenity": "recycling",
+    "opening_hours": "Mo-Fr 07:00-11:00, Mo,We 12:00-15:30, Fr 12:00-15:00, Sa,Su off",
+    "opening_hours:covid19": "same",
+    "operator": "Město Seč",
+    "recycling_type": "centre",
+    "id": "way/926317615"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.6613117,
+      49.8466389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/937099198",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/937099198"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.536048,
+      50.0762819
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/944911417",
+  "properties": {
+    "addr:city": "Třemošnice",
+    "addr:postcode": "53843",
+    "addr:street": "U Vápenky",
+    "amenity": "recycling",
+    "name": "Recycling - kovové odpady a. s.",
+    "recycling_type": "centre",
+    "id": "way/944911417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.5680173,
+      49.8734809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/951944277",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/951944277"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.3593181,
+      49.3674498
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/982073293",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/982073293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.8754607,
+      49.2279016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1004830691",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/1004830691"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5896687,
+      50.2316991
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1142001221",
+  "properties": {
+    "recycling_type": "centre",
+    "was:amenity": "recycling",
+    "id": "node/1142001221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.6964,
+      49.9477146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1249679124",
+  "properties": {
+    "amenity": "recycling",
+    "name": "separační dvůr Lonkova",
+    "opening_hours": "po, so: 8:00-12:00, út, čt: 14:00-18:00",
+    "operator": "Služby města Pardubice",
+    "recycling_type": "centre",
+    "wheelchair": "yes",
+    "id": "node/1249679124"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.7607928,
+      50.0452575
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1392328705",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Klecany",
+    "opening_hours": "Jan-Mar Tu,Th 12:00-15:00; Su 08:00-12:00; Apr-Oct Tu,Th 09:00-17:00; We,Fr 13:00-15:30; Sa 09:00-13:00; Su 08:00-12:00; Nov-Dec Tu,Th 12:00-15:00; Su 08:00-12:00",
+    "operator": "Městský úřad Klecany",
+    "phone": "+420 737723562",
+    "recycling_type": "centre",
+    "id": "node/1392328705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4082002,
+      50.1796673
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1411212942",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/1411212942"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.8260957,
+      50.1579421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1448434739",
+  "properties": {
+    "addr:conscriptionnumber": "699",
+    "addr:country": "CZ",
+    "addr:housenumber": "699",
+    "addr:place": "Líně",
+    "addr:postcode": "33021",
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "ref:ruian:addr": "27665623",
+    "id": "node/1448434739"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.26903,
+      49.6918751
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1457642646",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/1457642646"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5275754,
+      49.4546065
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1675127341",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Komwag",
+    "phone": "+420 236 040 000",
+    "recycling_type": "centre",
+    "source": "survey",
+    "website": "https://www.komwag.cz/",
+    "id": "node/1675127341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.439478,
+      50.0675641
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1906966299",
+  "properties": {
+    "amenity": "school",
+    "name": "ZŠ Dr. Malíka",
+    "recycling_type": "centre",
+    "website": "http://zsmalika.cz",
+    "id": "node/1906966299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.8057857,
+      49.9473608
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2078101656",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr AVE",
+    "recycling_type": "centre",
+    "id": "node/2078101656"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2117037,
+      50.053848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2101794049",
+  "properties": {
+    "amenity": "recycling",
+    "collection_times": "Mo 13:00-17:00; We 08:00-12:00,13:00-17:00; Th,Sa 08:00-14:00",
+    "name": "Technické služby Moravská Třebová s.r.o.",
+    "recycling_type": "centre",
+    "id": "node/2101794049"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6565276,
+      49.7625559
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2211669715",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "local_knowledge",
+    "id": "node/2211669715"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.8537617,
+      50.2304508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2307588993",
+  "properties": {
+    "amenity": "recycling",
+    "opening_hours": "Mar 15-Nov 15: Mo-Fr 11:00-17:30; Sa 8:00-11:00 || Nov 16-Mar 14: We 11:00-17:30; Sa 8:00-11:00",
+    "recycling_type": "centre",
+    "id": "node/2307588993"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.9121318,
+      49.9441393
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2420028970",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/2420028970"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4858062,
+      50.1488427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2471829394",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/2471829394"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4523791,
+      50.1341636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2492164279",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/2492164279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3720447,
+      49.8502772
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2683687841",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr odpadů Horoušany",
+    "recycling_type": "centre",
+    "id": "node/2683687841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.7272271,
+      50.1028886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2705385315",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/2705385315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.3859212,
+      49.2874564
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2833987832",
+  "properties": {
+    "amenity": "recycling",
+    "int_name": "Sběrný dvůr",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "source": "cuzk:km;survey;bing:ortofoto",
+    "id": "node/2833987832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.0656945,
+      50.1412528
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3213780990",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Výkupna druhotných surovin",
+    "recycling_type": "centre",
+    "id": "node/3213780990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5826786,
+      50.2229354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3213780991",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/3213780991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5848645,
+      50.2265939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3268908361",
+  "properties": {
+    "amenity": "recycling",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "recycling_type": "centre",
+    "website": "http://sbernesurovinyklecany.cz",
+    "id": "node/3268908361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4071669,
+      50.1791801
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3335247581",
+  "properties": {
+    "addr:conscriptionnumber": "599",
+    "addr:housenumber": "599",
+    "addr:place": "Milotice",
+    "addr:postcode": "69605",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Milotice",
+    "recycling_type": "centre",
+    "ref:ruian:addr": "73373656",
+    "id": "node/3335247581"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.1272418,
+      48.9554205
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3575495858",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/3575495858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.9014071,
+      49.8428103
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3634917341",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Technické služby Třeboň",
+    "recycling_type": "centre",
+    "id": "node/3634917341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.7573093,
+      49.0168546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3805077167",
+  "properties": {
+    "addr:city": "Nové Město nad Metují",
+    "addr:postcode": "54901",
+    "addr:street": "Družstevní",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/3805077167"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.1485641,
+      50.3558918
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3833919305",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/3833919305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4373895,
+      50.1672614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3924520231",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "operator": "Město Sezimovo Ústí",
+    "recycling_type": "centre",
+    "id": "node/3924520231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.7074407,
+      49.3746248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3979308217",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/3979308217"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.8141171,
+      49.5131509
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4202656115",
+  "properties": {
+    "amenity": "recycling",
+    "opening_hours": "Mo 17:00-19:00; Th 17:00-19:00",
+    "recycling_type": "centre",
+    "id": "node/4202656115"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4946128,
+      48.9291815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4202656120",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/4202656120"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4883446,
+      48.9340849
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8454172788",
+  "properties": {
+    "addr:city": "Františkovy Lázně",
+    "addr:postcode": "35101",
+    "addr:street": "Žírovická",
+    "amenity": "recycling",
+    "email": "miroslav.mottl@ave.cz",
+    "opening_hours": "Mo 13:00-18:00, Tu 9:00-15:30, We 13:00-18:00, Th-Fr 9:00-15:30",
+    "operator": "AVE CZ odpadové hospodářství s.r.o.",
+    "phone": "+420 354 400 311",
+    "recycling_type": "centre",
+    "website": "https://www.ave.cz/cs/karlovarsky-kraj/provozovna-frantiskovy-lazne",
+    "id": "node/8454172788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.3530057,
+      50.1262615
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6191325261",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/6191325261"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.1905845,
+      50.2271505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5310653835",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/5310653835"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2560538,
+      48.6202368
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8685956781",
+  "properties": {
+    "addr:city": "Chvalšiny",
+    "addr:housenumber": "317",
+    "addr:postcode": "38208",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/8685956781"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2096721,
+      48.8541676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7784717922",
+  "properties": {
+    "addr:city": "Kájov",
+    "addr:housenumber": "197",
+    "addr:postcode": "38221",
+    "addr:street": "Kájovská",
+    "amenity": "recycling",
+    "name": "Zita Kájov s.r.o.",
+    "recycling_type": "centre",
+    "website": "http://www.zitakajov.cz",
+    "id": "node/7784717922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2607578,
+      48.815692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7128369470",
+  "properties": {
+    "addr:city": "Český Krumlov",
+    "addr:housenumber": "70",
+    "addr:postcode": "38101",
+    "addr:street": "Tovární",
+    "amenity": "recycling",
+    "name": "Sběrné suroviny, a.s.",
+    "phone": "+420 603 510 894",
+    "recycling_type": "centre",
+    "website": "https://www.sbernesuroviny.cz/",
+    "id": "node/7128369470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3320269,
+      48.8313803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8290353441",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Lišov",
+    "operator": "FCC",
+    "operator:type": "private",
+    "recycling_type": "centre",
+    "id": "node/8290353441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.6350448,
+      49.0195371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6856016683",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/6856016683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7203404,
+      49.8524995
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5894909067",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/5894909067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.0075968,
+      49.7038595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4672524643",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Městys Jince",
+    "recycling_type": "centre",
+    "id": "node/4672524643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.9795259,
+      49.7883923
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5157968960",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/5157968960"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4295301,
+      49.6540054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5414518243",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Místo zpětného odběru",
+    "recycling_type": "centre",
+    "id": "node/5414518243"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.6466918,
+      48.929893
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8702408253",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/8702408253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6532927,
+      49.010818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6245794952",
+  "properties": {
+    "addr:city": "Seč",
+    "addr:housenumber": "1",
+    "addr:postcode": "53807",
+    "addr:street": "Chrudimská",
+    "amenity": "emergency_service",
+    "email": "vhc@mestosec.cz",
+    "emergency_service": "technical",
+    "name": "VHČ Seč",
+    "opening_hours": "Mo-Fr 07:00-11:00, Mo,We 12:00-15:30, Fr 12:00-15:00, Sa,Su off",
+    "operator": "Město Seč",
+    "phone": "+420 469 676 124",
+    "recycling_type": "centre",
+    "website": "http://www.mestosec.cz",
+    "id": "node/6245794952"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.6613332,
+      49.846964
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6161876679",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/6161876679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.576324,
+      49.1658945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8198680711",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/8198680711"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.7443526,
+      49.2977206
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7830524211",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/7830524211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5663862,
+      49.3661069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7830509425",
+  "properties": {
+    "amenity": "recycling",
+    "email": "obec@olomucany.cz",
+    "phone": "+420 721 907 127",
+    "recycling_type": "centre",
+    "website": "https://www.olomucany.cz/",
+    "id": "node/7830509425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6685787,
+      49.3355706
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4742613911",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "website": "https://www.vavrinec.cz/sberny-dvur-odpadu/",
+    "id": "node/4742613911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.7096008,
+      49.3977813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4901270972",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "website": "https://www.snezne.cz/sberny-dvur/ds-1044",
+    "id": "node/4901270972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.1237884,
+      49.646558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8534269699",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Recyklace",
+    "recycling_type": "centre",
+    "id": "node/8534269699"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.2223444,
+      49.6297234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4519464437",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/4519464437"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.6674011,
+      49.7584676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7293761272",
+  "properties": {
+    "addr:housenumber": "2",
+    "addr:street": "Sovadinova",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "website": "https://www.ave.cz/cs/jihomoravsky-kraj/provozovna-breclav/sberny-dvur/sberny-dvur-breclav",
+    "id": "node/7293761272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.8895905,
+      48.7620993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8191674114",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Diváky",
+    "phone": "+420 608 623018",
+    "recycling_type": "centre",
+    "id": "node/8191674114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.7919004,
+      48.9884352
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6415722821",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "website": "https://www.vacenovice.cz/urad-1/sberny-dvur/",
+    "id": "node/6415722821"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.1745054,
+      48.9571047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7829797687",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Prusinovice",
+    "recycling_type": "centre",
+    "id": "node/7829797687"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.5848968,
+      49.3790904
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4889187731",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrné místo",
+    "operator": "Obec Kašava",
+    "recycling_type": "centre",
+    "id": "node/4889187731"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.7871161,
+      49.2978037
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5744962106",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/5744962106"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.1091527,
+      49.4142849
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5174734285",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Rožnov pod Radhoštěm",
+    "recycling_type": "centre",
+    "id": "node/5174734285"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.1160206,
+      49.4617732
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8763773236",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/8763773236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.0973598,
+      49.8573884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4763834456",
+  "properties": {
+    "addr:city": "Litoměřice",
+    "addr:postcode": "41201",
+    "addr:street": "Nerudova",
+    "amenity": "recycling",
+    "name": "Sběrný dvůr Litoměřice",
+    "opening_hours": "Po,st 8:30-16:00 hod Út,čt 8:30-18:00 hod Pá 8:30-15:00 hod So 8:00-14:30 hod",
+    "operator": "Město Litoměřice",
+    "recycling_type": "centre",
+    "website": "https://www.tsmlt.cz/dvur-ltm.html",
+    "id": "node/4763834456"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1258171,
+      50.542278
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7466024562",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/7466024562"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.0692207,
+      50.6663365
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7772562261",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "We 16:00-20:00; Sa 08:00-14:00",
+    "phone": "+420 734 755 514",
+    "recycling_type": "centre",
+    "id": "node/7772562261"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5110265,
+      49.9789458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6326408768",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/6326408768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4744394,
+      50.0071029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8361163164",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/8361163164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4920188,
+      50.0658577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8572029550",
+  "properties": {
+    "addr:city": "Praha",
+    "addr:housenumber": "74",
+    "addr:postcode": "13000",
+    "addr:street": "Malešická",
+    "amenity": "recycling",
+    "email": "avepks.provoz@ave.cz",
+    "name": "Sběrný dvůr hl. m. Prahy",
+    "opening_hours": "Oct-Mar: Mo-Fr 08:30-18:00, Sa 08:30-15:00; Apr-Sep: Mo-Fr 08:30-17:00, Sa 08:30-15:00; PH off",
+    "operator": "AVE Pražské komunální služby, a.s.",
+    "operator:type": "public",
+    "phone": "+420 296 339 900",
+    "recycling_type": "centre",
+    "website": "https://www.ave.cz/cs/praha/sberny-dvur-vackov",
+    "id": "node/8572029550"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4869053,
+      50.0863571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6184110288",
+  "properties": {
+    "amenity": "recycling",
+    "building": "yes",
+    "name": "Sběrný dvůr Satalice",
+    "opening_hours": "Mar 31-Oct 23 Mo-Fr 08:30-18:30; Mar 31-Oct 23,Oct 24-Mar 31 Sa 08:30-15:00; Oct 24-Mar 31 Mo-Fr 08:30-17:00; PH off",
+    "operator": "IPODEC a.s.",
+    "phone": "736661560",
+    "recycling_type": "centre",
+    "website": "http://www.satalice-sd.cz",
+    "id": "node/6184110288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5853887,
+      50.1227692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8780725912",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr – Horní Počernice",
+    "operator": "Odbor místního hospodářství ÚMČ Praha 20",
+    "operator:type": "local_authority",
+    "recycling_type": "centre",
+    "id": "node/8780725912"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.610149,
+      50.1156445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4998818990",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Výkup palet",
+    "recycling_type": "centre",
+    "id": "node/4998818990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5106073,
+      50.1499418
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7380987812",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/7380987812"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.6962379,
+      50.234616
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7695555926",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/7695555926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.0960108,
+      50.3207636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7171795644",
+  "properties": {
+    "amenity": "recycling",
+    "operator": "FCC BEC",
+    "recycling_type": "centre",
+    "id": "node/7171795644"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4873609,
+      50.3556471
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7728745577",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/7728745577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.7311264,
+      50.6526203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5003197729",
+  "properties": {
+    "amenity": "recycling",
+    "collection_times": "Mo 14:00-16:00; Th 09:00-11:00; Sa 09:00-12:00",
+    "name": "Sběrný dvůr",
+    "recycling_type": "centre",
+    "id": "node/5003197729"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5587838,
+      50.8824826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7695560027",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/7695560027"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.102849,
+      50.3205538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7099409116",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/7099409116"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.7910304,
+      50.0705429
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5054445445",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Po 15:00 - 17:00",
+    "operator": "Bášť",
+    "recycling_type": "centre",
+    "id": "node/5054445445"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.9085678,
+      50.1287566
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8041979429",
+  "properties": {
+    "amenity": "recycling",
+    "name": "NAPOS a.s. - výkup druhotných surovin",
+    "phone": "+420725893334",
+    "recycling_type": "centre",
+    "website": "https://www.napos.cz/",
+    "id": "node/8041979429"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.8153501,
+      50.1951018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7238283526",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr - Na Brně",
+    "recycling_type": "centre",
+    "id": "node/7238283526"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.8554835,
+      50.1944575
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6271243310",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/6271243310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.4999184,
+      50.0386258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6197549136",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "opening_hours": "Nov-Mar: Tu 09:00-13:00,13:30-17:00; Th 13:00-17:00; Sa 09:00-13:00; Apr-Oct: Tu 09:00-13:00,13:30-18:00; Th 13:00-18:00; Sa 09:00-15:00",
+    "recycling_type": "centre",
+    "id": "node/6197549136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.463637,
+      50.0728649
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5704031068",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/5704031068"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5318148,
+      50.06336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5606607322",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrné suroviny",
+    "operator": "Petr Jiroušek",
+    "recycling_type": "centre",
+    "id": "node/5606607322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.0554286,
+      50.3978729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8456746459",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "node/8456746459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.1801143,
+      50.4795739
+    ]
+  }
+}
+]
+}
