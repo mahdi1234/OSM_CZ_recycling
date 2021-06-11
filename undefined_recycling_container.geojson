@@ -23559,23 +23559,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3095744726",
-  "properties": {
-    "amenity": "recycling",
-    "location": "overground",
-    "recycling_type": "container",
-    "id": "node/3095744726"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      17.2369023,
-      49.5906998
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3095824977",
   "properties": {
     "amenity": "recycling",
@@ -29621,6 +29604,22 @@
     "coordinates": [
       12.7706476,
       49.5056628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8822227689",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "container",
+    "id": "node/8822227689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.8505157,
+      49.352641
     ]
   }
 },
@@ -48535,6 +48534,22 @@
     "coordinates": [
       16.57817,
       49.1497635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8822018992",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "container",
+    "id": "node/8822018992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.5678421,
+      49.1706554
     ]
   }
 },
