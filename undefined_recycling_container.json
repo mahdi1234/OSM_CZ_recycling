@@ -23337,6 +23337,16 @@
 },
 {
   "type": "node",
+  "id": 8825992336,
+  "lat": 49.6376286,
+  "lon": 17.6749393,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 8751282229,
   "lat": 49.6519060,
   "lon": 17.7451462,
@@ -42044,6 +42054,16 @@
   "id": 8754063333,
   "lat": 49.9973709,
   "lon": 17.7506635,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8825922636,
+  "lat": 49.9586767,
+  "lon": 17.8767890,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
