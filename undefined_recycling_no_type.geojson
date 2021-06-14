@@ -12431,6 +12431,21 @@
 },
 {
   "type": "Feature",
+  "id": "node/8829362598",
+  "properties": {
+    "amenity": "recycling",
+    "id": "node/8829362598"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.2835079,
+      50.1320809
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/7752540857",
   "properties": {
     "amenity": "recycling",
@@ -13964,6 +13979,24 @@
     "coordinates": [
       14.554991,
       50.1352215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8829555255",
+  "properties": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "phone": "+420315726589",
+    "website": "https://www.mestokralupy.cz/mesto/technicke-sluzby#utm_source=mapy.cz&utm_medium=ppd&utm_campaign=firmy.cz-1906816",
+    "id": "node/8829555255"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3196659,
+      50.2399303
     ]
   }
 },

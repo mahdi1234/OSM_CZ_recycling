@@ -11162,22 +11162,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2341756502",
-  "properties": {
-    "amenity": "recycling",
-    "recycling_type": "container",
-    "id": "node/2341756502"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      16.9193906,
-      49.3269686
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2351873545",
   "properties": {
     "amenity": "recycling",
@@ -11623,38 +11607,6 @@
     "coordinates": [
       16.9323186,
       49.3172504
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2412498311",
-  "properties": {
-    "amenity": "recycling",
-    "recycling_type": "container",
-    "id": "node/2412498311"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      16.9179303,
-      49.3283988
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/2412498456",
-  "properties": {
-    "amenity": "recycling",
-    "recycling_type": "container",
-    "id": "node/2412498456"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      16.9124813,
-      49.3303839
     ]
   }
 },
@@ -36731,6 +36683,22 @@
 },
 {
   "type": "Feature",
+  "id": "node/8830001849",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "container",
+    "id": "node/8830001849"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7843013,
+      49.3703622
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/6674337977",
   "properties": {
     "amenity": "recycling",
@@ -37270,6 +37238,22 @@
     "coordinates": [
       14.1737117,
       49.1459616
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8829031455",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "container",
+    "id": "node/8829031455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.1806895,
+      49.1454273
     ]
   }
 },
@@ -52030,6 +52014,22 @@
     "coordinates": [
       17.5113782,
       49.213994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8830215133",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "container",
+    "id": "node/8830215133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.6063003,
+      49.2088601
     ]
   }
 },

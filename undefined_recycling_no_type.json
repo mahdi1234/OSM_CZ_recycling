@@ -213,6 +213,15 @@
 },
 {
   "type": "node",
+  "id": 8829362598,
+  "lat": 50.1320809,
+  "lon": 12.2835079,
+  "tags": {
+    "amenity": "recycling"
+  }
+},
+{
+  "type": "node",
   "id": 7752540857,
   "lat": 50.2138257,
   "lon": 12.1978756,
@@ -7270,6 +7279,18 @@
   "lon": 14.3548262,
   "tags": {
     "amenity": "recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 8829555255,
+  "lat": 50.2399303,
+  "lon": 14.3196659,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Sběrný dvůr",
+    "phone": "+420315726589",
+    "website": "https://www.mestokralupy.cz/mesto/technicke-sluzby#utm_source=mapy.cz&utm_medium=ppd&utm_campaign=firmy.cz-1906816"
   }
 },
 {

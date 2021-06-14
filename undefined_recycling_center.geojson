@@ -62,6 +62,26 @@
 },
 {
   "type": "Feature",
+  "id": "way/55506237",
+  "properties": {
+    "amenity": "recycling",
+    "building:ruian:type": "16",
+    "operator": "Brno",
+    "recycling_type": "centre",
+    "ref:ruian:building": "41883195",
+    "source": "cuzk:ruian",
+    "id": "way/55506237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.4971796,
+      49.2063165
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "way/55663113",
   "properties": {
     "amenity": "recycling",

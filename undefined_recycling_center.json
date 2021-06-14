@@ -2434,6 +2434,34 @@
 },
 {
   "type": "way",
+  "id": 55506237,
+  "center": {
+    "lat": 49.2063165,
+    "lon": 16.4971796
+  },
+  "nodes": [
+    697519122,
+    697519124,
+    697519126,
+    697519127,
+    8494962308,
+    697519130,
+    697519132,
+    697519148,
+    697519151,
+    697519122
+  ],
+  "tags": {
+    "amenity": "recycling",
+    "building:ruian:type": "16",
+    "operator": "Brno",
+    "recycling_type": "centre",
+    "ref:ruian:building": "41883195",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
   "id": 879130809,
   "center": {
     "lat": 49.1172873,
