@@ -9012,6 +9012,16 @@
 },
 {
   "type": "node",
+  "id": 8833238339,
+  "lat": 49.6592944,
+  "lon": 14.0550649,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 4672524647,
   "lat": 49.7731007,
   "lon": 13.9609881,
@@ -11625,6 +11635,26 @@
   "id": 7700533639,
   "lat": 49.2078551,
   "lon": 15.3005876,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8833356999,
+  "lat": 49.2622368,
+  "lon": 15.2904475,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8833357000,
+  "lat": 49.2622009,
+  "lon": 15.2903040,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -38898,36 +38928,6 @@
 },
 {
   "type": "node",
-  "id": 2277315388,
-  "lat": 50.7508856,
-  "lon": 15.0409160,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 2459860854,
-  "lat": 50.7534778,
-  "lon": 15.0434480,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 2752082449,
-  "lat": 50.7602441,
-  "lon": 15.0311180,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
   "id": 2378070302,
   "lat": 50.7646849,
   "lon": 15.0494646,
@@ -39888,26 +39888,6 @@
   "id": 8724923440,
   "lat": 50.1519353,
   "lon": 15.1280003,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 6512794190,
-  "lat": 50.1928413,
-  "lon": 15.1436495,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 5152484079,
-  "lat": 50.2131616,
-  "lon": 15.1426156,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
