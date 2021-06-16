@@ -3,4 +3,4 @@ Sberna strediska
 Kontejnery
 4186
 Bez typu
-882
+881
