@@ -315,7 +315,7 @@
     "addr:street": "Krejčířova",
     "amenity": "recycling",
     "name": "Sběrný dvůr Rousínov",
-    "opening_hours": "Mo 13:00-18:00; We 13:00-18:00; St 08:00-12:00",
+    "opening_hours": "Mo 13:00-18:00; We 13:00-18:00; Sa 08:00-12:00",
     "operator": "RESPONO a.s.",
     "phone": "+420 732 454 800",
     "recycling_type": "centre",
@@ -790,8 +790,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      15.7952734,
-      49.9400508
+      15.79538,
+      49.9399801
     ]
   }
 },
