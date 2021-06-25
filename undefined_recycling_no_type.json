@@ -6632,8 +6632,8 @@
 {
   "type": "node",
   "id": 7713638342,
-  "lat": 50.1180249,
-  "lon": 14.4333077,
+  "lat": 50.1180434,
+  "lon": 14.4333514,
   "tags": {
     "amenity": "recycling",
     "recycling:glass": "yes",
