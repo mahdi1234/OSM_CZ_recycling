@@ -1453,24 +1453,6 @@
 },
 {
   "type": "node",
-  "id": 1401974871,
-  "lat": 49.8754925,
-  "lon": 14.9050137,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 5994233259,
-  "lat": 49.8726010,
-  "lon": 14.9052590,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
   "id": 5994233258,
   "lat": 49.8743370,
   "lon": 14.9212397,
@@ -2603,18 +2585,6 @@
   "id": 1663154395,
   "lat": 49.5822165,
   "lon": 15.9650194,
-  "tags": {
-    "amenity": "recycling",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 1663154353,
-  "lat": 49.5819623,
-  "lon": 16.0015243,
   "tags": {
     "amenity": "recycling",
     "recycling:glass": "yes",
