@@ -1917,36 +1917,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/498432145",
-  "properties": {
-    "amenity": "recycling",
-    "id": "node/498432145"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      14.3632054,
-      49.9607128
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/498432147",
-  "properties": {
-    "amenity": "recycling",
-    "id": "node/498432147"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      14.3589396,
-      49.9595256
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/498432148",
   "properties": {
     "amenity": "recycling",
