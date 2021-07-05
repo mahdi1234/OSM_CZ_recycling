@@ -4517,18 +4517,10 @@
   "tags": {
     "amenity": "recycling",
     "recycling:clothes": "yes",
+    "recycling:glass": "yes",
     "recycling:metal": "yes",
     "recycling:paper": "yes",
     "recycling:plastic": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 502541109,
-  "lat": 49.9571141,
-  "lon": 14.3585462,
-  "tags": {
-    "amenity": "recycling"
   }
 },
 {
