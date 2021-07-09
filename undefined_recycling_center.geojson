@@ -2690,6 +2690,22 @@
 },
 {
   "type": "Feature",
+  "id": "way/962662813",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "id": "way/962662813"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.8161178,
+      50.3470467
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/982073293",
   "properties": {
     "amenity": "recycling",
