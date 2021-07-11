@@ -25713,6 +25713,16 @@
 },
 {
   "type": "node",
+  "id": 8909858108,
+  "lat": 50.0321260,
+  "lon": 14.3061450,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 1045210616,
   "lat": 50.0317740,
   "lon": 14.3105939,

@@ -3025,21 +3025,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/899428263",
-  "properties": {
-    "amenity": "recycling",
-    "id": "node/899428263"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      17.2337839,
-      49.6388252
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/899492498",
   "properties": {
     "amenity": "recycling",
