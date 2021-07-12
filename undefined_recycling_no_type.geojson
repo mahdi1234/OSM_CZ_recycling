@@ -11169,25 +11169,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3721551464",
-  "properties": {
-    "amenity": "recycling",
-    "recycling:cans": "no",
-    "recycling:clothes": "yes",
-    "recycling:glass": "yes",
-    "recycling:paper": "yes",
-    "id": "node/3721551464"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      15.6690117,
-      49.7176553
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3721557002",
   "properties": {
     "amenity": "recycling",
