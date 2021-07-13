@@ -5569,8 +5569,8 @@
 {
   "type": "node",
   "id": 932603982,
-  "lat": 50.0634613,
-  "lon": 14.3893909,
+  "lat": 50.0634483,
+  "lon": 14.3893363,
   "tags": {
     "amenity": "recycling",
     "recycling:beverage_cartons": "yes",
@@ -5615,8 +5615,8 @@
 {
   "type": "node",
   "id": 931499914,
-  "lat": 50.0674579,
-  "lon": 14.3911807,
+  "lat": 50.0675969,
+  "lon": 14.3914300,
   "tags": {
     "amenity": "recycling",
     "recycling:glass": "yes",
@@ -6412,15 +6412,6 @@
   "id": 1300473187,
   "lat": 50.1175356,
   "lon": 14.4173840,
-  "tags": {
-    "amenity": "recycling"
-  }
-},
-{
-  "type": "node",
-  "id": 7713646154,
-  "lat": 50.1154158,
-  "lon": 14.4170750,
   "tags": {
     "amenity": "recycling"
   }

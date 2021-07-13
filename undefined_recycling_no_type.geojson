@@ -3239,8 +3239,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      14.3911807,
-      50.0674579
+      14.39143,
+      50.0675969
     ]
   }
 },
@@ -3258,8 +3258,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      14.3893909,
-      50.0634613
+      14.3893363,
+      50.0634483
     ]
   }
 },
@@ -13638,21 +13638,6 @@
     "coordinates": [
       14.3723264,
       50.0718544
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/7713646154",
-  "properties": {
-    "amenity": "recycling",
-    "id": "node/7713646154"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      14.417075,
-      50.1154158
     ]
   }
 },
