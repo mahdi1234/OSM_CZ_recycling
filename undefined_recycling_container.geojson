@@ -59792,7 +59792,7 @@
     "type": "Point",
     "coordinates": [
       14.4069388,
-      50.0794411
+      50.0794258
     ]
   }
 },
@@ -60939,6 +60939,22 @@
     "coordinates": [
       14.6651904,
       49.9720334
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8915834003",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "container",
+    "id": "node/8915834003"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5905901,
+      50.0246489
     ]
   }
 },
@@ -62137,6 +62153,22 @@
     "coordinates": [
       14.4822107,
       50.1054697
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8916308855",
+  "properties": {
+    "amenity": "recycling",
+    "recycling_type": "container",
+    "id": "node/8916308855"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4719341,
+      50.105633
     ]
   }
 },
