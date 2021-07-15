@@ -5737,6 +5737,16 @@
 },
 {
   "type": "node",
+  "id": 8918953961,
+  "lat": 48.9447622,
+  "lon": 14.5206869,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 7362768573,
   "lat": 48.9466654,
   "lon": 14.5022270,
@@ -6282,6 +6292,17 @@
   "lon": 14.5170579,
   "tags": {
     "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8919010056,
+  "lat": 48.9376546,
+  "lon": 14.5427541,
+  "tags": {
+    "amenity": "recycling",
+    "location": "underground",
     "recycling_type": "container"
   }
 },
@@ -12176,16 +12197,6 @@
   "id": 4417211582,
   "lat": 49.4654355,
   "lon": 15.2076757,
-  "tags": {
-    "amenity": "recycling",
-    "recycling_type": "container"
-  }
-},
-{
-  "type": "node",
-  "id": 7002647879,
-  "lat": 49.4614881,
-  "lon": 15.2295908,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -19346,6 +19357,16 @@
   "id": 8758656536,
   "lat": 49.2365491,
   "lon": 17.3472592,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8918804279,
+  "lat": 49.2696059,
+  "lon": 17.3387586,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -28616,6 +28637,16 @@
 },
 {
   "type": "node",
+  "id": 8919908504,
+  "lat": 50.0655368,
+  "lon": 14.2880627,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 1028941218,
   "lat": 50.0676891,
   "lon": 14.2931227,
@@ -28629,12 +28660,42 @@
 },
 {
   "type": "node",
+  "id": 8919899331,
+  "lat": 50.0689465,
+  "lon": 14.2965829,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
   "id": 1746656829,
   "lat": 50.0676777,
   "lon": 14.3030504,
   "tags": {
     "amenity": "recycling",
     "location": "underground",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8919899223,
+  "lat": 50.0713269,
+  "lon": 14.3030786,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8919899309,
+  "lat": 50.0698550,
+  "lon": 14.3005475,
+  "tags": {
+    "amenity": "recycling",
     "recycling_type": "container"
   }
 },
@@ -28654,6 +28715,16 @@
   "id": 4632330573,
   "lat": 50.0792430,
   "lon": 14.3051724,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8919893482,
+  "lat": 50.0728518,
+  "lon": 14.3003481,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -29237,6 +29308,16 @@
   "id": 8775691272,
   "lat": 50.0903190,
   "lon": 14.3194105,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8919685228,
+  "lat": 50.0871362,
+  "lon": 14.3254340,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -31234,8 +31315,8 @@
 {
   "type": "node",
   "id": 1925168392,
-  "lat": 50.1120715,
-  "lon": 14.3800173,
+  "lat": 50.1121140,
+  "lon": 14.3800394,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -31358,6 +31439,26 @@
   "id": 3778159290,
   "lat": 50.1138904,
   "lon": 14.3832555,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8919359620,
+  "lat": 50.1147590,
+  "lon": 14.3842219,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8919359786,
+  "lat": 50.1132710,
+  "lon": 14.3800882,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"
@@ -40139,6 +40240,16 @@
   "id": 7859575181,
   "lat": 50.1905728,
   "lon": 15.4838361,
+  "tags": {
+    "amenity": "recycling",
+    "recycling_type": "container"
+  }
+},
+{
+  "type": "node",
+  "id": 8919095679,
+  "lat": 50.2263649,
+  "lon": 15.4793895,
   "tags": {
     "amenity": "recycling",
     "recycling_type": "container"

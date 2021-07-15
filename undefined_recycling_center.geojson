@@ -760,26 +760,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/352296122",
-  "properties": {
-    "amenity": "recycling",
-    "name": "Sběrný dvůr",
-    "opening_hours": "Tu,Th 10:00-15:00; We 11:00-18:00; Fr 12:00-18:00; Sa 09:00-12:00,14:00-17:00",
-    "operator": "Technické služby Čelákovice příspěvková organizace",
-    "recycling_type": "centre",
-    "website": "http://ts.celakovice-mesto.cz/sd_provoz.php",
-    "id": "way/352296122"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      14.7580648,
-      50.1605899
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "way/356831061",
   "properties": {
     "amenity": "recycling",
