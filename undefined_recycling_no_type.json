@@ -705,20 +705,6 @@
 },
 {
   "type": "node",
-  "id": 3114728375,
-  "lat": 49.6293328,
-  "lon": 14.1304538,
-  "tags": {
-    "amenity": "recycling",
-    "name": "plasty",
-    "recycling:cans": "no",
-    "recycling:clothes": "no",
-    "recycling:glass": "no",
-    "recycling:paper": "no"
-  }
-},
-{
-  "type": "node",
   "id": 7832996925,
   "lat": 49.6377018,
   "lon": 14.2087638,

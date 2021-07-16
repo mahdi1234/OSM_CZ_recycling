@@ -605,6 +605,23 @@
 },
 {
   "type": "node",
+  "id": 635125391,
+  "lat": 50.0821688,
+  "lon": 14.2599675,
+  "tags": {
+    "addr:conscriptionnumber": "100",
+    "addr:country": "CZ",
+    "addr:housenumber": "100",
+    "addr:place": "Hostivice",
+    "addr:postcode": "25301",
+    "addr:street": "Jiráskova",
+    "amenity": "recycling",
+    "recycling_type": "centre",
+    "ref:ruian:addr": "12757659"
+  }
+},
+{
+  "type": "node",
   "id": 2833987832,
   "lat": 50.1412528,
   "lon": 14.0656945,
