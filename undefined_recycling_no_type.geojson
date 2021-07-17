@@ -14020,21 +14020,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/6273725808",
-  "properties": {
-    "amenity": "recycling",
-    "id": "node/6273725808"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      15.1575604,
-      50.3838479
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/4348909952",
   "properties": {
     "amenity": "recycling",
